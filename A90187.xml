@@ -1,0 +1,1281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall papers of the treatie between His Excellencie Iames Marques of Ormond, Lord Lieutenant Generall of Ireland for the King, on the one part; and Sir Thomas Wharton, Sir Robert King, Sir John Clotworthy, Sir Robert Meredith, knights, and Richard Salwey Esquire, commissioners authorized by the two Houses of Parliament of England; on the other part. VVith the commissioners instructions concerning the Lord of Ormond; the instructions concerning the Protestants of Ireland, &amp; compositions of delinquents: His Excellencies answer; and the Lord Lieutenants reply. With their reply to all his exceptions. And the Kings Maj. directions.</title>
+            <author>Ireland. Lord Lieutenant (1641-1649 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 107 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90187</idno>
+            <idno type="STC">Wing O458A</idno>
+            <idno type="STC">Thomason E378_4</idno>
+            <idno type="STC">ESTC R201374</idno>
+            <idno type="EEBO-CITATION">99861897</idno>
+            <idno type="PROQUEST">99861897</idno>
+            <idno type="VID">114043</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90187)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114043)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E378[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall papers of the treatie between His Excellencie Iames Marques of Ormond, Lord Lieutenant Generall of Ireland for the King, on the one part; and Sir Thomas Wharton, Sir Robert King, Sir John Clotworthy, Sir Robert Meredith, knights, and Richard Salwey Esquire, commissioners authorized by the two Houses of Parliament of England; on the other part. VVith the commissioners instructions concerning the Lord of Ormond; the instructions concerning the Protestants of Ireland, &amp; compositions of delinquents: His Excellencies answer; and the Lord Lieutenants reply. With their reply to all his exceptions. And the Kings Maj. directions.</title>
+                  <author>Ireland. Lord Lieutenant (1641-1649 : Ormonde)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+                  <author>Wharton, Thomas, Sir.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 45, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Blad[e]n, printer to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>Dublin: :</pubPlace>
+                  <date>anno Dom. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Document dates range from 12 October 1646-22 November 1646.</note>
+                  <note>The "e" in "Bladen" has failed to print.</note>
+                  <note>Annotation on Thomason copy: "feb: 25 [1647] London"; 'Dublin' crossed out; Thomason Catalogue interprets this to mean that this is a February 1647 London reprint.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114043:1" rendition="simple:additions"/>
+            <p>SEVERALL PAPERS OF THE TREATIE BETWEEN His Excellencie IAMES Marques of ORMOND, Lord Lieutenant Generall of IRELAND for the KING, on the one part;</p>
+            <p>
+               <hi>AND</hi> Sir <hi>Thomas Wharton,</hi> Sir <hi>Robert King,</hi> Sir <hi>John Clotworthy,</hi> Sir <hi>Robert Meredith,</hi> Knights, and <hi>Richard Salwey</hi> Eſquire, Commiſſioners authorized by the Two Houſes of PARLIAMENT of ENGLAND; on the other part.</p>
+            <p>VVith the Commiſsioners Inſtructions concerning the Lord of <hi>Ormond;</hi> the Inſtructions concerning the Proteſtants of <hi>Ireland,</hi> &amp; Compoſitions of Delinquents: His Excellencies Propoſitions, and the Commiſſioners their Anſwer; and the Lord Lieutenants Reply. With their Reply to all his Exceptions. And the Kings Maj. Directions.</p>
+            <p>
+               <hi>DVBLIN:</hi> Printed by <hi>William Blad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> Printer to the Kings moſt Excellent Majeſty, <hi>Anno Dom.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="document">
+               <pb n="2" facs="tcp:114043:2"/>
+               <opener>
+                  <dateline>At the Committee of Lords and Com<g ref="char:EOLhyphen"/>mons, at <hi>Darby houſe.</hi>
+                  </dateline>
+               </opener>
+               <p>BY Vertue of an Ordinance of Parl. of the <hi>15.</hi> of this inſtant Oc<g ref="char:EOLhyphen"/>tober, authorizing us, We do conſtitute and appoint you, <hi>Sir T. Whatton, Sir Rob. King, Sir John Clatworthy, and Sir Robert Meredith. Knights, and Rich. Salwey <abbr>Eſq</abbr>
+                  </hi> Commiſſioners to treat with the Lord of Ormond, for and concerning the delivery of the Sword, the City of Dublin, and all other Garriſons and Holds in his power. And you or any three of you have hereby power to treat with the ſaid L. of Ormond, concerning the premiſes, and to agree &amp; con<g ref="char:EOLhyphen"/>clude with him concerning the ſame, acoording to ſuch inſtructions as are delivered unto you.</p>
+               <closer>
+                  <dateline>Given <date>this <hi>23</hi> of October. <hi>1646.</hi>
+                     </date>
+                  </dateline>
+                  <signed>Northumberland. E. Mancheſter. P. Liſle. P. Wharton. W. Peirrepoint. Denzel Hollis. P. Stapleton. W. Lewis. J. Temple. Ro. Goodwyn.</signed> 
+               </closer>
+               <postscript>
+                  <p>Copia vera</p>
+                  <closer>
+                     <signed>Ex. <hi>W. Rowe, Secr.</hi>
+                     </signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Die Lunae.</hi> 12. <hi>October.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>IT is this day Ordered by the Commons aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, That it be referred to the Members of both Houſes, that are of the Committee of both Kingdomes, to conſider of theſe Letters, and to receive the Addreſſes of the Commiſſioners from <hi>Ireland,</hi> and their Prop<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſitions, and to view and conſider of their Inſtructions, and the Members of this Houſe that are of the Committee of both Kingdomes, or any four of them, have po<g ref="char:EOLhyphen"/>wer to meet this Afternoon at two of the clock in Darby-houſe for the purpoſes aforeſaid, and haue power to report tomorrow, if they ſhall ſee occaſion; And the Lord Lieutenant of <hi>Ireland,</hi> Mr. <hi>Hollis,</hi> Sir <hi>John Clotworthy,</hi> and Sir <hi>Iohn Temple,</hi> have power, and are deſired to be preſent at the meeting of this Committee.</p>
+               <p>
+                  <hi>Mr. Na. Fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es, Sir W. Lewis, and Mr. Rob. Goodwyn are added to this Committee.</hi>
+               </p>
+               <closer>
+                  <signed>Hen. Elſynge, Cler. Parl. D. Com.</signed>
+               </closer>
+            </div>
+            <pb n="3" facs="tcp:114043:2"/>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Die Jovis</hi> 15. <hi>Octobris,</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>THE Lords and Commons aſſembled in Parliament, do de<g ref="char:EOLhyphen"/>clare, that they reſolve to proceed upon the ſecond way of Overture, made by the Earl of <hi>Ormond,</hi> and will appoint ſome way of treating with him for his Retirement, and will imploy ſuch as they ſhall think fit in the Truſt of that Kingdome.</p>
+               <closer>
+                  <signed>John Brown Cler. Parliament.</signed> 
+               </closer>
+               <postscript>
+                  <p>Vera Copia,</p>
+                  <closer>
+                     <signed>Ex. W. Rowe, Secr.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Die Jovis</hi> 15. <hi>Octobris,</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>ORdered by the Lords and Commons in Parliament aſſem<g ref="char:EOLhyphen"/>bled, That the whole Affaire concerning <hi>Ireland,</hi> in reſpect of the ſecreſie and expedition thereunto neceſſary, be referred back to the former Committee, And the Committee hath po<g ref="char:EOLhyphen"/>wer to give Inſtructions to ſuch as they ſhall imploy for the purſuance and tranſaction of that Affaire, and to Order the For<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s that ſhall go thither, and to diſpoſe of the Ammunition, and other Proviſions for the Service of <hi>Ireland,</hi> as they ſhall judge beſt for the Publique Service, and are to meet this Afternoon, and ſo from time to time as they ſhall ſee cauſe.</p>
+               <closer>
+                  <signed>John Brown Cler. Parliament.</signed> 
+               </closer>
+               <postscript>
+                  <p>Vera Copia,</p>
+                  <closer>
+                     <signed>Ex. W. Rowe, Secr.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="document">
+               <head>Inſtructions for Sir Tho. Wharton, Sir Rob. King, Sir John Clot<g ref="char:EOLhyphen"/>worthy, Sir Rob. Meredith, <hi>Knights,</hi> and Rich. Salwey, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr> concerning the Lord of <hi>Ormond.</hi>
+               </head>
+               <p>YOu are to declare to the L. of <hi>Ormond,</hi> the E. of <hi>Roſcommon,</hi> and the reſt of thoſe that ſigned the Inſtructions to Sir <hi>Ger<g ref="char:EOLhyphen"/>rard Lowther,</hi> Sir <hi>Francis Willoughby,</hi> and Sir <hi>Panl Davies,</hi> That the Parliament will take into their Care and Protection the Pro<g ref="char:EOLhyphen"/>teſtants of <hi>Ireland.</hi> If the L. of <hi>Ormond</hi> do within foure dayes de<g ref="char:EOLhyphen"/>liver up the Swo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, render all the Garriſons, and other Com<g ref="char:EOLhyphen"/>mands to the pleaſure of the Parliament, Then you, or any three of you, are to give theſe enſuing Conditions.</p>
+               <p n="1">
+                  <pb n="4" facs="tcp:114043:3"/>
+1. That the <hi>L.</hi> of <hi>Ormond</hi> ſhall enjoy his eſtate without mole<g ref="char:EOLhyphen"/>ſtation or diſturbance from the Parl. And ſhall have indempni<g ref="char:EOLhyphen"/>ty againſt all debts contracted by reaſon of any Goods, Money, Debts, or Victuals taken up by vertue of any Warrants ſigned by him and the Councel, from any perſon, for the maintenance and ſupport of the Armies, or any of the Garriſons, now under his Command.</p>
+               <p n="2">2. That he ſhall be protected in his Perſon and Goods for the ſpace of 12 moneths againſt all Suits, Arreſts, Moleſtation, or Diſturbance from any perſon whatſoever, for any Debts owing by him to any perſon whatſoever before the Rebellion there.</p>
+               <p n="3">3. That the L. of <hi>Ormond,</hi> and all ſuch Noblemen, Gentlemen, and Officers, as ſhall be deſirous to go with him, or by them<g ref="char:EOLhyphen"/>ſelves, into any other place out of that Kingdom, ſhall have free Paſſes for themſelves, their Families, Goods, &amp; travelling Arms, and a competent number of ſervants ſutable to their reſpective Qualities.</p>
+               <p n="4">4. That the L. of <hi>Ormond</hi> ſhall have 5000. <abbr>l.</abbr> paid him in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> or <hi>Ireland,</hi> in ſuch manner as ſhall ſeeme beſt to the Com<g ref="char:EOLhyphen"/>miſſioners now ſent: And ſhall have alſo 2000. <abbr>l.</abbr> 
+                  <hi>per annum</hi> for 5 yeares, And if the Warre ſhall longer continue in ſuch man<g ref="char:EOLhyphen"/>ner, as he cannot receive 2000. <abbr>l.</abbr> 
+                  <hi>per annum,</hi> out of his owne E<g ref="char:EOLhyphen"/>ſtate, That then he ſhall have the ſaid Penſion of 2000. <abbr>l.</abbr> 
+                  <hi>per annum</hi> ſtill continued, untill he can receive ſo much out of his own eſtate.</p>
+               <p n="5">5. That the L. of <hi>Ormond</hi> ſhall have liberty to come and live here in <hi>England,</hi> With the like liberty that others have, he ſub<g ref="char:EOLhyphen"/>mitting to all Ordinances of Parliament. And for the time of 12 moneths ſhall not be preſſed to any Oaths, he ingaging his honour to do nothing in the mean time, that ſhall be diſſervice to the Parliament.</p>
+               <closer>
+                  <dateline>
+                     <hi>Darby-houſe</hi> 
+                     <date>17 <hi>Octob.</hi> 1646.</date>
+                  </dateline>
+                  <signed>A. Northumberland. E. Mancheſter. P. Liſle. P. Wharton. W. Pierrepoint. Denzel Hollis, W. Waller. W. Armyn. Ph. Stapleton. Iohn Temple. W. Lewis. Ro. Wallop.</signed>
+               </closer>
+               <postscript>
+                  <p>Vera Copia</p>
+                  <closer>
+                     <signed>Ex. W. Rowe, Secr.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="document">
+               <pb n="5" facs="tcp:114043:3"/>
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Novemb.</hi> 15. 1646.</date>
+                  </dateline>
+               </opener>
+               <p>VVE find in the Inſtructions delivered in by you unto us, That you are to declare unto us, and the reſt that ſigned the Inſtructions to Sir <hi>Gerard Lowther,</hi> &amp;c. That the Parl. will take into their Gare and Protection the Proteſtants of <hi>Ireland.</hi> We deſire to know, whether by theſe words. <hi>viz.</hi> [That the Parl. will take into their Gare and Protection the Proteſtants of <hi>Ireland</hi>] All the Proteſtants of <hi>Ireland</hi> are to enjoy their Laws, Liberties, Eſtates, and Imployments, without moleſtation or di<g ref="char:EOLhyphen"/>ſturbance from the Parliament of <hi>England.</hi>
+               </p>
+               <closer>
+                  <signed>ORMOND.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Novem.</hi> 15. 1646.</date>
+                  </dateline>
+               </opener>
+               <p>VVEE find by the Inſtructions delivered in by you unto us, theſe words, <hi>viz.</hi> If the Lord of <hi>Ormond</hi> doe within 4 dayes deliver up the Sword, render all the Garriſons and other Commands to the pleaſure of the Parliament, then &amp;c. Wee de<g ref="char:EOLhyphen"/>ſire to know when the ſaid foure dayes ſhall be underſtood to begin, and to what Perſon or Perſons, and to whoſe uſe the ſaid Sword, Garriſons and other Commands, are deſired to be deli<g ref="char:EOLhyphen"/>vered up, or rendred.</p>
+               <closer>
+                  <signed>ORMOND.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Novem.</hi> 15. 1646.</date>
+                  </dateline>
+               </opener>
+               <p>TO your Lordſhips firſt Paper of the 15 of <hi>Novem.</hi> we return this Anſwer; That we are required by the Paper of Inſtru<g ref="char:EOLhyphen"/>ctions delivered to your Lordſhip, to declare to your Lordſhip, the E. of <hi>Roſcomon,</hi> and the reſt that ſigned the Inſtructions to Sir <hi>Gerard Lowther,</hi> &amp;c. That the Parliament will take into their Care and Protection the Proteſtants of <hi>Ireland.</hi> But deſire to be excuſed from giving a particular explatation of thoſe words in that Paper, being not directed ſo to do, yet conceive there ought to be no doubt of a fair interpretation thereof.</p>
+               <closer>
+                  <signed>Rob. Meredith. Ths. Wharton. Rob. King. Iohn Clotworthy. Ri. Salwey.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Novem.</hi> 15. 1646.</date>
+                  </dateline>
+               </opener>
+               <p>ALthough we queſtion not a fair interpretation, yet in mat<g ref="char:EOLhyphen"/>ters ſo highly importing the ſafety and ſubſiſtence of the <gap reason="missing" extent="1 page">
+                     <desc>〈1 page missing〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:114043:4"/>ſtants of this Kingdome, we may not leave them to the uncer<g ref="char:EOLhyphen"/>tainty of future interpretation: and therefore we cannot re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſatisfied without clearer aſſurance in their behalf, then we fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de either in the Inſtruction delivered unto us by you this d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y (whereof we deſire an Explanation) or the Anſwer given y<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> you to our firſt Paper.</p>
+               <closer>
+                  <signed>ORMOND.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>15. <hi>Novem.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>TO your Lordſhips ſecond Paper of the 15. of <hi>November,</hi> we return this Anſwer: That the four dayes appointed for the Treaty with your Lordſhip (within which time we are to bring our Debates to a concluſion) we underſtand did begin this 15. of <hi>Novemb.</hi> 1646. at 9 in the morning, And we who are appointed Commiſſioners by Authority from the Parl. of <hi>England,</hi> are to receive from your Lordſhip (if the Treaty ſucceed) the Sword, and Garriſons under your Command, for the uſe of the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> in order to the preſervation of the Proteſtants in the Kingdom of <hi>Ireland.</hi>
+               </p>
+               <closer>
+                  <signed>Rob. Meredith. Tho. Wharton. Rob King. John Clotworthy. Rich. Salwey.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>15. <hi>Novem.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>VVEE deſire to know, whether your Lordſhip reſts ſatiſ<g ref="char:EOLhyphen"/>fied in all the particulars of the Paper of Inſtructions de<g ref="char:EOLhyphen"/>livered to you by us this day, ſaving that which concernes the Proteſtants, as is expreſſed in your Lordſhips third Paper.</p>
+               <closer>
+                  <signed>Rob. Meredith. T. Wharton. Rob. King. Iohn Clotworthy. Rich. Salwey</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>November</hi> 15. 1646.</date>
+                  </dateline>
+               </opener>
+               <p>VVE hold it not fit to declare our ſenſe concening the par<g ref="char:EOLhyphen"/>ticulars of the paper of Inſtruction, delivered by you to us which concern our ſelf, untill aſſurance be firſt given for the ſafety and ſubſiſtence of the Proteſtants of this Kingdome, which we deſire may be haſtened for the bringing of this Trea<g ref="char:EOLhyphen"/>ty to a ſpeedy and good concluſion.</p>
+               <closer>
+                  <signed>ORMOND.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>November</hi> 15. 1646.</date>
+                  </dateline>
+               </opener>
+               <p>FOraſmuch as your Lordſhip in your third paper of the fifteenth of this inſtant doth expreſſe; That you cannot reſt ſatisfied without clearer aſſurance on the behalfe of the Prote<g ref="char:EOLhyphen"/>ſtants
+<pb n="7" facs="tcp:114043:4"/>of Ireland then you find either in the inſtructions deli<g ref="char:EOLhyphen"/>vered to you by us this day, or in our anſwers to your Lord<g ref="char:EOLhyphen"/>ſhip touching the explanation thereof, as was in your firſt pa<g ref="char:EOLhyphen"/>per deſired. And whereas your Lordſhip in your fourth, in anſwer to our third, hath ſignified, that you hold it not fit to declare your ſenſe concerning the particulars of the paper of Inſtructions, which concern your ſelfe, untill aſſurance be firſt given for the ſafety and ſubſiſtance of the Proteſtants of the kingdom of Ireland; to the end nothing may be wanting on our parts, to bring this Treaty to a ſpeedy &amp; happy concluſion, we hold it fit to declare, That by an additional Inſtruction (which we night not ſooner impart) we are enabled to give to ſuch Proteſtants (not having been in the Iriſh rebellion) as we con<g ref="char:EOLhyphen"/>dition withall, aſſurance of ſecurity to their perſons, and to their eſtates and goods, that they have in Ireland, and that they may live quietly and ſecurely under the protection of the Par<g ref="char:EOLhyphen"/>liament, and their Forces, either within England, Ireland, or Wales, and that they ſhall enjoy thoſe their eſtates and goods, without any moleſtation or queſtion faom the Parliament, as any others doe, who have not offended the Parliament, they ſubmitting to all Ordinances of Parliament; and if any of them have any lands or eſtates in England, they are to com<g ref="char:EOLhyphen"/>pound for the ſame at the rate of two yeares profit, as they were before the beginning of theſe troubles, They ſubmitting to all ordinances of Parliament.</p>
+               <closer>
+                  <signed>Rob. Meredith. Tho. Wharton. Rob. King. Jo. Clorworthy. Ri. Salwey.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>15. <hi>November.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>BEfore we make anſwer to your fourth paper of the fifteenth of <hi>November,</hi> we hold it needfull to have an authentick co<g ref="char:EOLhyphen"/>py of the additionall Inſtruction therein mentioned, being for the ſecurity of the Proteſtant-Subjects of this Kingdome. And we deſire authentick copies of ſuch other additionall Inſtructi<g ref="char:EOLhyphen"/>ons as you have, in regard your commiſſion is limited by, and hath relation to your inſtructions.</p>
+               <closer>
+                  <signed>ORMOND</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>16. <hi>November.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>TO your Lordſhips fifth paper of the fifteenth of <hi>November,</hi> we return this anſwer, That to the end nothing may be
+<pb n="8" facs="tcp:114043:5"/>wanting on our parts, conducing to the ſecurity of the Prote<g ref="char:EOLhyphen"/>ſtants of Ireland, according to the Inſtructions given us by au<g ref="char:EOLhyphen"/>thority of Parliament; and that we may accordingly put a ſpeedy concluſion to this Treaty, we doe for your Lordſhips more ample ſatisfaction (though we hold, not our ſelves obli<g ref="char:EOLhyphen"/>ged thereunto) herewith freely deliver your Lordſhip an Au<g ref="char:EOLhyphen"/>thentick copy of the additionall Inſtructions: But we muſt deſire to be excuſed from giving any further anſwer to the ſaid paper, untill we receive your Loadſhips poſitive anſwer upon the papers already given in, hoping it will be believed, That as we have not hitherto, ſo we ſhall not for the future offer any thing, unto which we are not warranted by our Inſtructions.</p>
+               <closer>
+                  <signed>Rob. Meredith. Tho. Wharton. Rob. King. John Clotworthy. Ri. Salwey.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <head>The Additionall Inſtruction concerning the Proteſtants of Ireland.</head>
+               <p>YOu, or any three of you, may give to ſuch Proteſtants, (not ha<g ref="char:EOLhyphen"/>ving been in the Iriſh Rebellion) as you condition with all, aſſu<g ref="char:EOLhyphen"/>rance of ſecurity to their perſons, and to their eſtates and goods, that they have in Ireland; and that they may live quietly, and ſe<g ref="char:EOLhyphen"/>curely under the protection of the Parliament, and their Forces, either within England, Ireland, or Wales: And you may like<g ref="char:EOLhyphen"/>wiſe aſſure them, that they ſhall enjoy thoſe their eſtates and goods without any moleſtation, or queſtion from the Parliament, as any others doe, who have not affended the Parliament: They ſubmit<g ref="char:EOLhyphen"/>ting to all Ordinances of Parliament. And if any of them have any Lands or Eſtates in England, they are to compound for the ſame at the rate of two yeares profit, as they were before the be<g ref="char:EOLhyphen"/>ginning of theſe troubles, They ſubmitting to all Ordinances of Parliament.</p>
+               <closer>
+                  <dateline>Derby Houſe <date>Octob. <hi>17. 1646.</hi>
+                     </date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>Northumberland.</item>
+                        <item>E. Mancheſter.</item>
+                        <item>P. Liſl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>,</item>
+                        <item>P. Wharton.</item>
+                        <item>W. Pierpoint.</item>
+                        <item>Denzil Hollis.</item>
+                        <item>W. Waller.</item>
+                        <item>P. Stapleton.</item>
+                        <item>W. Armyne.</item>
+                        <item>Wil. Lewis.</item>
+                        <item>I. Temple.</item>
+                        <item>R. Wallop.</item>
+                     </list>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>Copia vera</p>
+                  <closer>
+                     <signed>exam. W. Row. Secret.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="document">
+               <pb n="9" facs="tcp:114043:5"/>
+               <opener>
+                  <dateline>
+                     <hi>Dublin</hi> 
+                     <date>16. <hi>November,</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>VVHereas we have been info<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>med, that the Armies of the Rebels lye neare this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and may probably make ſome ſpeedy attempt upon the ſame: we hold it our du<g ref="char:EOLhyphen"/>ty for the preſervation thereof, and of he Proteſtants therein, to declare, that if your Lordſhip apprehend ſuch danger to be, and that any Supplies of Men and Ammunition which wee have brought with us, may prevent the ſame: we are rea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y to give all ſuch aſſiſtance, as may be thought expedient, during the time the p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt Treaty c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s with you Lordſhip, and are willing to give ſuch Cantion as may be expected from us, That no other uſe ſha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l be made of the ſame, then is herein ex<g ref="char:EOLhyphen"/>preſſed, and ſha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l expect the like from your Lordſhip. As alſo, that ſuch Men and Ammunition as we ſhall bring a-ſhore for the purpoſes aforeſaid, be (if the Treaty ſucceed not) retur<g ref="char:EOLhyphen"/>ned us back again.</p>
+               <closer>
+                  <signed>Rob. Meredith. Tho. Wharton. Rob. King. Jo. Clotworthy. Ri. Salwey.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>16. <hi>November,</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>UPon conſideration had of your fourth. Paper of the fif<g ref="char:EOLhyphen"/>teenth of this moneth, and the firſt paper of the ſixteenth of this in n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th and he Copy of the Additionall Inſtruction ſent unto us therewith, before we can deliver any poſitive an<g ref="char:EOLhyphen"/>ſwer to your papers, we hold it neceſſary to be ſatisfied in the following particulars.</p>
+               <p>Firſt, whereas you expreſſe in that paper of the fifteenth, as followeth, viz. we are enabled to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive to ſuch Proteſtants not having been in the Iriſh rebellion, as we condition withall, aſ<g ref="char:EOLhyphen"/>ſurance of ſecurity to their perſons, and the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſtater and goods, that they have in Ireland: we deſire you to declare whether thoſe words, viz. [ſuch Proteſtants not having been in the I<g ref="char:EOLhyphen"/>riſh rebellion] you intend to exempt thoſe Proteſtants, or any of them, who have had a hand in making the ceſſation, or the late peace, or who have done any thing by occaſion, or in Pur<g ref="char:EOLhyphen"/>ſuance thereof.</p>
+               <p>Secondly, whether by theſe words, viz. we are enabled to give ſuch Proteſtants as we condition withall, aſſurance; you
+<pb n="10" facs="tcp:114043:6"/>intend that every particular Proteſtant ſhall come, and make his conditions with you; or whether all the Proteſtants of this Kingdome, are not to be included within the preſent trea<g ref="char:EOLhyphen"/>ty, and to partake of the agreement which ſhall be made.</p>
+               <p>Thirdly, whether by thoſe words, Submitting to Ordinan<g ref="char:EOLhyphen"/>ces of Parliamen, it be intended that they ſhall ſubmit to all, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d every the Ordinances already made, and which hereafter ſhall be made by the Parliament of <hi>England.</hi>
+               </p>
+               <p>Fourthly, we find nothing in the Com<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſſion, nor in any of the Inſtructions delivered by you to us for the continuance of the Judges and Miniſters of the Civil Liſt, and O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ficers of the Martiall Liſt in their reſpective imployments, nor any anſwer given by you unto us in any of your pap<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs unto that particu<g ref="char:EOLhyphen"/>lar and herein we deſire to be ſatisfied, as a matter wherein their being and livelihood doth depend.</p>
+               <closer>
+                  <signed>Ormond.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>16. <hi>November.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>TO the firſt and ſecond parcicular of your Lordſhips firſt pa<g ref="char:EOLhyphen"/>per of the 16. <hi>November</hi> we anſwet, that we ſhall not ex<g ref="char:EOLhyphen"/>empt any Proteſtants of <hi>Ireland,</hi> though th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y have of late con<g ref="char:EOLhyphen"/>ſented or ſubmitted either to the ceſſation of Armes, or the peace concluded with the Iriſh rebels ſo as they ſubmit to the Parliament wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hin twenty dayes after our ſending to them.</p>
+               <p>To the third particular, your Lordſhip hath an authentick copie of the Inſtruction, wherein thoſe words [ſubmitting to al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ordinance of Parliament] are expreſſed, of which we have no explanation.</p>
+               <p>To the fourth particular, concerning the continuation or diſ<g ref="char:EOLhyphen"/>placing of the Judges an<g ref="char:punc">▪</g> Miniſters of the Civill Liſt in their imployments we are not inſtructed therein; but for the Offi<g ref="char:EOLhyphen"/>cers of the Martiall Liſt, we have power by our Inſtructions, and doe intend accordingly to imploy ſuch of them as ſhall be found fit for the ſervice.</p>
+               <p>Having thus endeavoured to give your Lordſhip all poſſible ſatisfaction, we do again deſire your Lordſhips poſitive anſwer to our papers formeny given in, it being too manifeſt, how grest miſchief may befall the Proteſtants of this Kingdom, and the ſervice with which we are entruſted, ſhould not our De<g ref="char:EOLhyphen"/>bates be brought to a ſpeedy concluſion.</p>
+               <closer>
+                  <signed>Rob. Meredith. T. Wharton, Rob. King, J. Clotworthy. Ri. Salwey.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <pb n="11" facs="tcp:114043:6"/>
+               <opener>
+                  <dateline>
+                     <date>16. <hi>November.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>We are not ſatisfied with your anſwer to our firſt Paper, of the 16. of <hi>Novemb.</hi> to which we take theſe following excepti<g ref="char:EOLhyphen"/>ons for the preſent.</p>
+               <p>Firſt, we deſired by our ſaid paper to know of you, whether you intended to exempt the Proteſtants, or any of them, who have had a hand in making the ceſſation, or late peace, &amp;c. to which you make this anſwer,</p>
+               <p>That you wil not exempt any Proteſtants of Ireland though they have of late conſented, or ſubmitted, either to the ceſſati<g ref="char:EOLhyphen"/>on or the peace concluded with the Iriſh rebels, ſo as they ſub<g ref="char:EOLhyphen"/>mit to the Parliament within twenty dayes after your ſending unto them; within which words, no proviſion is made either for thoſe who had a hand in the making thereof, or did upon the firſt making thereof ſubmit thereunto. And beſides, no pro<g ref="char:EOLhyphen"/>viſion is made for any, but ſuch as you ſhall ſend unto, ſo that it will reſt in your power, to whom you will ſend, and when; wherein there is no certainty.</p>
+               <p>Secondly, we deſired by our ſaid paper, to know of you, whe<g ref="char:EOLhyphen"/>ther you intended that every particular Proteſtant ſhall come, and make his conditions with you; or whether all the Prote<g ref="char:EOLhyphen"/>ſta<g ref="char:cmbAbbrStroke">̄</g>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of this kingdom are not to be included within the preſent Treaty, and to partake of the agreement to be made, to which no cleare anſwer is given.</p>
+               <p>And whereas you deſire our poſitive anſwer to your papers formerly given, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it being, as you ſay, too manifeſt how great miſchiefe may befall the Proteſtants of this kingdome, and the ſeruice with which you are intruſted, if your debates ſhould ſhould not be brought to a ſpeedy concluſion. We deſire you for the ſame reaſons, to ſet down fully and clearly how far the propoſitions which we ſent to the Parliament by our Com<g ref="char:EOLhyphen"/>miſſioners, are aſſented unto; and upon view and conſideration thereof, we ſhall ſpeedily give our poſitive anſwer.</p>
+               <closer>
+                  <signed>Ormond.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>17. <hi>November.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>IN anſwer to your Lordſhips ſecond paper of the 16. of <hi>No<g ref="char:EOLhyphen"/>vember,</hi> and for clearing (ſo farre as poſſibly lyes in us) the Exceptions therein taken to our anſwer unto your Lordſhips firſt paper of the ſame date. We herewith deliver all the In<g ref="char:EOLhyphen"/>ſtructions
+<pb n="12" facs="tcp:114043:7"/>which we have received, that do (as we conceive) in any kind whatſoever, relate thereunto; and if yet <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>te ſhall re<g ref="char:EOLhyphen"/>main with your Lordſhip any doub<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> concerning thoſe parti<g ref="char:EOLhyphen"/>culars, we ſhall repreſent the ſame (if the Tr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>acy do ſucceed) to thoſe that imployed us, with the beſt advantage for the Pro<g ref="char:EOLhyphen"/>teſtan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of this Kingdome. Further ſatisfaction then this, we ſuppoſe cannot be expected from us.</p>
+               <p>As to the other part of your Lordſhips paper, wherein you would have us ſet down fully and clearly, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow far the propo<g ref="char:EOLhyphen"/>ſitions which you ſent to the Parliament by your Commiſſio<g ref="char:EOLhyphen"/>ners, are aſſen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed unto, we cannot anſwer your Lordſhips de<g ref="char:EOLhyphen"/>ſire therein, neither thoſe propoſitions, nor copies of them be<g ref="char:EOLhyphen"/>ing delivered unto us.</p>
+               <p>We therefore earneſtly deſire your Lordſhip to accept of the conditions offered in our former papers, and to give us a ſpeedy reſolution therein.</p>
+               <closer>
+                  <signed>Rob. Meredith. Tho. Wharton. Rob. King. Io Clotworthy. Ri. Salwey</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <head>Inſtructions for Sir Thomas Wharton, Sir Robert King, Sir John Clotworthy, and Sir Rob. Meredith, Knights: and Richard Salwey Eſquire, imployed to the Lord of Ormond, and others at Dublin<g ref="char:punc">▪</g>
+               </head>
+               <p>You may receive any Proteſtant who hath not been in the Iriſh rebellion, though he hath of late conſented or ſubmitted, either to the ceſſation of A mes, or the peace concluded with the Iriſh reb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls, ſo as they ſubmit to the Pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liament within twenty dayes after your ſending for them.</p>
+               <p>You, or any three of you, have power hereby to give protection to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uch as will come under contribution, and to give them the beſt ſafeguard you can, by the countenan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of the Forces ſerving under the Parliament.</p>
+               <p>You, or any three of you, may give to ſuch Proteſtants (not having been in the Iriſh <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ebellion) as you condition withall, aſſu<g ref="char:EOLhyphen"/>rance of ſecurity to their perſons, and to their eſtates and goods, that they have in Ireland, and that t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey may live quietly and ſe<g ref="char:EOLhyphen"/>curely under the protection o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Parliament, and their Forces, either within England, Ireland, or Wales; and you may likewiſe
+<pb n="13" facs="tcp:114043:7"/>aſſure them, that they ſhall enjoy thoſe their Eſtates and Goods, without any moleſtation, or queſtion from the Parliament, as any others doe, who have not offended the Parliament, they ſubmitting to all Ordinances of Parliament; ann if any of them have any Lands or Eſtates in England, they are to compound for the ſame at the rate of two yeares profit, as they were before the beginning of theſe troubles, they ſubmitting to all Ordinances of Parliament.</p>
+               <closer>
+                  <dateline>
+                     <hi>Darby-houſe,</hi> 
+                     <date>
+                        <hi>Octob. 17. 1646.</hi>
+                     </date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Northumberland.</hi>
+                        </item>
+                        <item>
+                           <hi>W. P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>erpoint.</hi>
+                        </item>
+                        <item>
+                           <hi>W. Waller.</hi>
+                        </item>
+                        <item>
+                           <hi>Mancheſter.</hi>
+                        </item>
+                        <item>
+                           <hi>Denz. Hollis.</hi>
+                        </item>
+                        <item>
+                           <hi>P. Stapleton.</hi>
+                        </item>
+                        <item>
+                           <hi>P. Liſle.</hi>
+                        </item>
+                        <item>
+                           <hi>W. Lewis</hi>
+                        </item>
+                        <item>
+                           <hi>I. Temple.</hi>
+                        </item>
+                        <item>
+                           <hi>P. Wharton.</hi>
+                        </item>
+                        <item>
+                           <hi>W. Armine.</hi>
+                        </item>
+                        <item>
+                           <hi>Ro. Wallop.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>17. <hi>November.</hi> 1647.</date>
+                  </dateline>
+               </opener>
+               <p>IN your third paper of the 16. of November, are theſe words, <hi>viz.</hi> That for the Officers of the Martiall Liſt, we have power by our Intructions, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o intend accordingly to imploy ſuch of them as ſhall be found fit for the ſervice. A Copy of which Inſtruction, we deſire, that we may the better judge how farre the ſecurity and future ſubſiſtence of the ſaid Officers is there<g ref="char:EOLhyphen"/>by provided for.</p>
+               <closer>
+                  <signed>Ormond.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>November</hi> 17. 1646.</date>
+                  </dateline>
+               </opener>
+               <p>In anſwer to your Lordſhips firſt paper of the 17. of this Moneth, wee herein deliver a Copy of the Inſtructions therein deſired.</p>
+               <closer>
+                  <signed>Rob. Meredith. Tho. Wharton. Rob. King. Io. Clotworthy. R. Salwey.</signed>
+
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>YOu, or any three of you, are to imploy ſuch of the Officers now under the Lord of O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mond, as you ſhall thinke fit; and where you diſplace any, you are to place other Officers, if they be neceſſary; or otherwiſe to ſee their Commands ſufficiently diſcharged, untill the Lord Lieutenant of Ireland take further order.</hi>
+                  </p>
+                  <closer>
+                     <signed>Signed as the reſt of the Inſtruction.</signed>
+                  </closer>
+               </postscript>
+               <postscript>
+                  <p>Copia vera</p>
+                  <closer>
+                     <signed>exam. W. Rowe, Secr.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>17. <hi>Novemb.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>BY our ſecond paper of the 16. of November, wee deſired you for the bringing of the preſent debates to a ſpeedy dy concluſion, to ſet down fully and clearly, how farre the pro<g ref="char:EOLhyphen"/>poſitions
+<pb n="14" facs="tcp:114043:8"/>poſitions, which we ſent to the Parliament by our Commiſſio<g ref="char:EOLhyphen"/>ners, are aſſenced unto; and we did by our ſaid paper declare, that upon view and conſideration thereof, we would ſpeedily give our poſitive anſwer; to which by our firſt paper of the 17. of <hi>November</hi> you ſay, that you cannot anſwer our deſire therein, neither thoſe propoſitions nor copies of them being delivered unto you. We think fit to declare unto you, that our Commiſſioners delivered our Propoſitions and Inſtructions to the Committee of both Houſes, and that they took Copies thereof, and that our Commiſſioners doe by their letters of the 16. of <hi>October</hi> 1646, certifie us by the command of the ſaid Committee, that with the ſuccours, there would alſo ar<g ref="char:EOLhyphen"/>riue here certain Commiſſioners to bee ſent from the Parlia<g ref="char:EOLhyphen"/>ment to treat with us, upon the particulars contained in the Propoſitions and Inſtructions ſent to the Parliament from us, Copies of which Propoſitions and Inſtructions we are rea<g ref="char:EOLhyphen"/>dy to ſend unto you, if that you ſhall deſire the ſame. And we again deſire you to declare fully and clearly how far you have power, and will aſſent to our ſaid Propoſitions, or whether we ſhall give our poſitive anſwer to the papers already delivered by you, taking it for granted, that you have no further, or other Inſtructions, then what you have delivered us.</p>
+               <closer>
+                  <signed>Ormond.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>17. <hi>November,</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>TO your Lordſhips ſecond paper of the 17. of <hi>November,</hi> (wherein you again deſire us to declare fully and clearly, how farre we have power, and will aſſent to the Propoſitions ſent to the Parliament by your Commiſſioners) we can return no other anſwer then we have already done in our two firſt papers of the 16. and 17. of <hi>Novemb.</hi> in the later of which we declare, we have not thoſe propoſitions nor copies of them, nor we think it expedient upon this occaſion to receive the ſame from your Lordſhip, yet we deſire the want of thoſe Propoſi<g ref="char:EOLhyphen"/>tions may not be conceived the only reaſon of our forbearance, of giving further anſwer to your Lordſhips paper; but hold it our duty to inſiſt upon your Lordſhips poſitive anſwer to the papers already given in.</p>
+               <closer>
+                  <signed>Rob Meredith. Tho. Wharton. Rob. King. Jo. Clotworthy. Ri. Salwey.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <pb n="15" facs="tcp:114043:8"/>
+               <opener>
+                  <dateline>
+                     <date>17. <hi>November,</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>If you ſhall poſitively declate, that you have no power or inſtructions to enlarge your ſelves beyond what is expreſſed in your former papers, we will then give a poſitive anſwer to thoſe papers.</p>
+               <closer>
+                  <signed>Ormond.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>17 <hi>November.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>We cannot more largely or poſitively expreſſe the power and extent of our inſtructions, we have then already done, but doe again in purſuance of our inſtructions, deſire your Lordſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> anſwer to the papers given in.</p>
+               <closer>
+                  <signed>Rob. Meredith. Tho. Wharton. Rob King. Jo Clotworthy. Ri. Salwey.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>17 <hi>November,</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>We did not by our third paper o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the 17. of <hi>November,</hi> deſire to know whether you could more largely or poſitively expreſſ th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> power &amp; intent of your inſtructions then you had formerly done: But we expreſſed, that if you would poſitively declare you had no power or inſtructions to en<g ref="char:EOLhyphen"/>large your ſelves beyond what is expreſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in your former papers, wee would then give a poſitive anſwer to thoſe papers, which by your anſwer thereunto you have neither affirmed nor denied; And therefore we forbear to give a poſitive anſwer to your ſaid papers, till we be ſatisfied in that particular.</p>
+               <closer>
+                  <signed>Ormond.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>18. <hi>November.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>Having taken into conſideration your Lordſhips laſt paper of the 17. of <hi>Novemb.</hi> we return you this anſwer, that wea hold not fit poſitively to de<g ref="char:EOLhyphen"/>clare, whether wee have any power or inſtruction to enlarge our ſelves be<g ref="char:EOLhyphen"/>yond what is expreſſed in our former paper, nor doewe conceive it ought to be expected from us, for that (to omit other reaſons) wee have fre<g ref="char:EOLhyphen"/>quently declared, that we are (according to our inſtructions to receive your Lordſhips poſitive anſwer upon the papers already given in, which we now again deſire from your Lordſhip.</p>
+               <closer>
+                  <signed>Rob. Meredith. Tho. Wharton. Rob. King. Io. Clotworthy. Rich. Salwey.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>18 <hi>November.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>In the Copy of ſome of the Inſtructions delivered by you unto us, it is thus expreſſed, That if the Lord of Ormond do within 4 dayes deliver up the ſword, render up all the Garciſons, and other Commands to the plea<g ref="char:EOLhyphen"/>ſure of the Parliament, then you, or any three of you, are to give theſe en<g ref="char:EOLhyphen"/>ſuing Conditions, &amp;c.</p>
+               <p>
+                  <pb n="16" facs="tcp:114043:9"/>
+And in your ſecond paper of the 15. of <hi>Novemb,</hi> 1646. you expreſſe your ſelves amongſt other things, as followeth, <hi>viz.</hi> Wee, who are appointed Commiſſioners by authority from the Parl. of <hi>England,</hi> are to receive from your Lordſhip (if the treaty ſucceed) the Sword, and Garriſons under your Command, for the uſe of the Parl. of <hi>England;</hi> To which, and your other pa<g ref="char:EOLhyphen"/>pers, before we can make anſwer, we deſire to know whether you have his Majeſties Direction and Command unto us, for our ſo doing.</p>
+               <closer>
+                  <signed>Ormond.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>18. <hi>November</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>To your Lordſhips firſt paper of the 18. of this moneth, we anſwer that we have not his Maj. direction and command unto your Lordſhip, for deli<g ref="char:EOLhyphen"/>vering up the Sword, rendring up all the Garriſons and Commands to the pleaſure of the Parliament.</p>
+               <closer>
+                  <signed>Rob. Meredith. Tho. Wharton. Rob. King. John Clotworthy. Rich. Salwey.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>18. <hi>Novemb.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>The papers delivered by you unto us, whereunto you deſire our poſitive anſwer, gave occaſion vnto us to take into conſideration, aſwell the Propo<g ref="char:EOLhyphen"/>ſitions and Inſtructions ſigned by us alone, and ſent by our Commiſſioners to be preſented to the Parliament of <hi>England,</hi> as alſo the Propoſitions and Inſtructions ſigned by us, and the Councell of this Kingdome, and other Propoſitions and Inſtructions ſigned by the ſaid Councell a-part, and ſent by our ſaid Commiſſioners to be in like ſort preſented: all which Propoſi<g ref="char:EOLhyphen"/>tions and Inſtructions they delivered to the Committee of both honſes, ap<g ref="char:EOLhyphen"/>pointed to conſider thereof, who took Copies of the ſaid Propoſitions and Inſtructions, Copies of which Propoſitions ſigned by us alone, we think fit to inſert herein, <hi>viz.</hi>
+               </p>
+               <list>
+                  <head>Propoſitions of the Lord Lieutenant of <hi>Ireland,</hi> to be preſented, &amp;c.</head>
+                  <item>THat the ſaid Lord Lieutenant will proſecute the Warre againſt the Iriſh Rebels, as vigorouſly as he ſhall be thereunto enabled by the Pari. of Eng<g ref="char:EOLhyphen"/>land, and that he will faithfully ſerve the Crown of England therein.</item>
+                  <item n="2">
+                     <hi>2</hi> That whilſt he hath the Government of this Kingdom, and the Command of the Armies therein, none of the Supplies of Men, Money, Arms, Munition, Victuals, or any other proviſions of what kind or nature ſoever, which ſhall by the PARLIAMENT of ENGLAND be ſent over, or joyned with the Forces already under his Command, nor any other Forces that ſhall be under his Command, ſhall in any wiſe be imployed either within this Kingdome, or out of it, but by the expreſſe direction of the ſaid Parliament of England.</item>
+                  <item n="3">
+                     <hi>3</hi> That he will not upon any Command, or by vertue of any power or autho<g ref="char:EOLhyphen"/>rity whatſoever, enter into any Treaty with the ſaid Iriſh Rebels, or conclude
+<pb facs="tcp:114043:9"/>any Peace or Ceſſation with them without the conſent and expreſſe Command of the King and Parliament of England.</item>
+                  <item n="4">
+                     <hi>4.</hi> He will ingage himſelf to the true performance of all theſe things by Oath, or by any other meanes that can be propoſed to a man of Honour and Conſci<g ref="char:EOLhyphen"/>ence.</item>
+               </list>
+               <p>26 Septemb. 1646.</p>
+               <p>Ormond.</p>
+               <p>Now foraſmuch, as we do not find by our papers, that any one of the ſaid Propoſitions, which haue been tranſmi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed from hence, is aſſented unto by the Parl. of <hi>England,</hi> though we have preſſed you by ſeverall papers, to know how farre they were aſſented unto; And for that it appeareth unto us by thoſe papers, that no Copies of the ſaid Propoſitions or Inſtructions were delivered unto you and that when we upon that ſignification did offer unto you copies of both, you did not think it expedient upon this occaſion to re<g ref="char:EOLhyphen"/>ceive the ſame from us, And for that by the papers and copies of Inſtructi<g ref="char:EOLhyphen"/>ons delivered by you unto us, We find <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſecurity offered to any of the Pro<g ref="char:EOLhyphen"/>teſtants, but to ſuch as you ſhall condition withall, and who ſhall ſubmit to all Ordinances of Parliament, whereas we expected that all ſhould bee in<g ref="char:EOLhyphen"/>cluded and provided for, in and by the preſent Treaty, and what thoſe con<g ref="char:EOLhyphen"/>ditions o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ordinances of Parliament are, you doe not aſcertaine by any of your papers: And for that it doth not appear unto us by any the Inſtru<g ref="char:EOLhyphen"/>ctions, whereof you have delivered copies unto us, that you have power to ſecure any other of his Majeſties Subjects, who have conſtantly adhered to the Government here ſince the 22 of <hi>October,</hi> 1641. in their perſons and e<g ref="char:EOLhyphen"/>ſtates. And for that the Officers of his Majeſties Army here, and the Judges and Miniſters of the Civil Liſt, have no aſſurance given them for their con<g ref="char:EOLhyphen"/>tinuance in their reſpective imployments, your expreſſion as unto them being as follo weth, <hi>viz.</hi> Concerning the continuation and diſplacing of the Judges and Miniſters of the civill Liſt in their imployments, we are not inſtructed therein; but for the Officers of the Martiall Liſt, we have power by our Inſtructions, and do intend accordingly to imploy ſuch of them, as ſhall be found fit for the ſervice, which giveth no aſſurance unto any one of the Martiall Liſt, and leaveth the Civill Liſt without any ſecurity, &amp; taketh no notice of the poore diſtreſſed Clergy of the Kingdom. In all which par<g ref="char:EOLhyphen"/>ticulars (being contained in our Propoſitions and Inſtructions) we did hopr that the Parl. of <hi>England</hi> would have giuen us ſatisfaction, which being not yet done for any thing made known by you to us, and for that you have by your paper of the 18. of <hi>Novemb.</hi> 1646. declared unto us, that you have not his Maj. direction and command unto us, for delivering up the Sword, ren<g ref="char:EOLhyphen"/>dring up all the Garriſons and Commands to the pleaſure of the Parlia<g ref="char:EOLhyphen"/>ment, which you by your ſecond paper of the 15. of <hi>Novemb.</hi> 1646. deſire to be rendred unto you, to the uſe of the Parliament; without any relation
+<pb facs="tcp:114043:10"/>in your ſaid paper to the King, we hold it not conſiſtent with our Duty to his Majeſty, to part with ſo great a Truſt committed to our charge, in man<g ref="char:EOLhyphen"/>ner as by your papers is deſired, without his Maj. expreſſe and poſitive Di<g ref="char:EOLhyphen"/>rections, and therefore may not aſſent thereunto.</p>
+               <closer>
+                  <signed>Ormond.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>18. <hi>Novemb.</hi> 1646,</date>
+                  </dateline>
+               </opener>
+               <p>Whereas we did, together with our firſt paper of the 16. of <hi>Novemb.</hi> de<g ref="char:EOLhyphen"/>liver in to your Lordſhip an authentique copy of the additionall inſtruction concerning the Proteſtants of <hi>Ireland,</hi> unto which your Lordſhip hath ta<g ref="char:EOLhyphen"/>ken ſeverall exceptions; we think good for your ſatisfaction therein, now to declare, that we intend that all Proteſtants whatſoever of the Kingdome of <hi>Ireland</hi> (not having been in the Iriſh Rebellion) ſhall be included in this treaty, and receive the full benefit expreſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the ſaid inſtruction: And that the conditions implyed in that inſtruction to be impoſed on them, ſhall be underſtood, as followeth, <hi>viz.</hi> Whereas it is ſaid, they ſhall enjoy thoſe their Eſtates and Goods without any moleſtation or queſtion from the Parl. as nay others do, who have not offended the Parl. they ſubmitting to all Ordinances of Parl. By all Ordinances of Parl. we only intend ſuch Or<g ref="char:EOLhyphen"/>dinances (whether already made, or to be made) as all others do ſubmit un<g ref="char:EOLhyphen"/>to, who never offended the Parliament; And whereas liberty is given to compound for ſuch eſtates, as any of them ſhall have in <hi>England</hi> they ſub<g ref="char:EOLhyphen"/>mitting to all Ordinances of Parl. By all Ordinances of Parl. wee intend, only ſuch as all perſons now compounding in <hi>England</hi> do ſubmit unto, pro<g ref="char:EOLhyphen"/>vided that all thoſe that are thus admitted <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o their compoſition do effectu<g ref="char:EOLhyphen"/>ally proſecute the ſame within 6 moneths after the publication of this Ar<g ref="char:EOLhyphen"/>ticles.</p>
+               <p>And whereas in the fourth Article of the firſt paper delivered in to your Lordſhip, offer is made of 5000. <abbr>l.</abbr> in money, and 2000. <abbr>l.</abbr> 
+                  <hi>per annum,</hi> to bee paid your Lordſhip in manner, as is expreſſed in the ſaid Article, we now hold it fit to declare, that if it ſhall be more to your Lordſhips ſatisfaction and content, we have power given us, and ſhall accordingly grant, what you deſired in the 6. Article of your Lordſhips additionall inſtructions ſent to the Par. according as is in the paper herewith delivered in, expreſſed.</p>
+               <p>And we luſtly hold it fit to make known unto your Lordſhip, that power is alſo given to us, to agree for allowances to be paid to other perſons, by conſtam penſion during the Warre of <hi>Ireland,</hi> not exceeding the ſumme of 2000. <abbr>l.</abbr> 
+                  <hi>per annum,</hi> which penſions are to continue, till they can receive the like benefit by their own eſtates.</p>
+               <p>We do now particularly declare to your Lordſhip (and ſooner according to our inſtructions we could not) that wee have no power to enlage our elves, beyond what we have expreſſed. And do therefore now again, intreat our Lordſhips poſitive anſwer upon the whole, which we muſt the rather
+<pb n="19" facs="tcp:114043:10"/>deſire may be expedited, for that we are (according to our inſtructions) to bring our debates to a concluſion within 4 dayes at the furtheſt, after the beginning of the treaty, which will end to morrow at 9 of the clock in the morning, and we have no authority to prolong the ſame.</p>
+               <closer>
+                  <signed>Rob. Meredith. Tho. Wharton. Rob. King. Iohn Clotworthy. Ric. Salwey.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <head>A Copy of the Paper mentioned in the former.</head>
+               <p>Sixthly, in regard that my whole fortune is now in the poſſeſſion, or with<g ref="char:EOLhyphen"/>in the power of the Rebels, ſo as I can make no manner of uſe of i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; As alſo for that I have not only at my own charge, in ſome ſort, maintained the honour and dignity of my place, ſince the 21. of <hi>Ian.</hi> 1643, which was the day whereon I was ſworn his Maj. Lieutenant, but likewiſe contributed in a conſiderable portion to the maintenance of the Army &amp; Garriſons now under my Command. And laſtly, for that by meanes thereof, I am utterly unable to diſcharge the debts I have contracted for my own ſupport, whilſt I imployed my own to feed the Army, or to pay the wages due to the Ser<g ref="char:EOLhyphen"/>vant, which I was neceſſitated to entertain, in reſpect of the place I held; For theſe reaſons, I deſire it may be humbly offered to the nobleneſſe &amp; ho<g ref="char:EOLhyphen"/>nour of the Parl. That to free me from the clamor of Creditors, to pay my ſervants their wages, and to tranſport and maintain my ſelf and my family, in ſome ſort befitting the condition of a Gentleman; The Parl. will be plea<g ref="char:EOLhyphen"/>ſed to disburſe the ſum of 13000. <abbr>l.</abbr> 877. <abbr>l.</abbr> 14. <abbr>s.</abbr> 9. <abbr>d.</abbr> be paid to ſuch as I ſhall appoint upon Bills of Exchange, accepted by ſufficient men in <hi>France,</hi> or <hi>Holland,</hi> to wit, the one half upon ſight, and at 6 moneths the oeher halfe thereof, which is leſſe then the juſt ſum I have disburſed for the mainte<g ref="char:EOLhyphen"/>nance of the Garriſons of <hi>Dublin, Dundalke, Newry, Narrow-water, Green-Caſtle,</hi> and <hi>Carlingford,</hi> not accompting my own expence, nor the many o<g ref="char:EOLhyphen"/>ther ſmaller disburſments ſpent meerly for the good of the ſaid Garriſons; And that I may be ſecured againſt any moleſtation, by reaſon of the en<g ref="char:EOLhyphen"/>gagements, I have at any time entred info, for the publique ſervice ſince the beginning of this Rebellion.</p>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>19. <hi>Novemb.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>Vpon conſideration had of your 3. paper of the 18. of <hi>Novem.</hi> as alſo of your former papers, and the copies of ſuch inſtructions, as you delivered un<g ref="char:EOLhyphen"/>to us, we find no ſatisfaction given by you in theſe following particulars.</p>
+               <p>Firſt, we do not find that you have power to ſecure any of his Maj. Ro<g ref="char:EOLhyphen"/>man Catholike Subjects in their perſons and eſtates, who haue conſtantly ad<g ref="char:EOLhyphen"/>hered to the Government here, ſince the 22. of <hi>October,</hi> 1641 of whom wee conceive care out to be had in the preſent treaty.</p>
+               <p>Secondly, you have declared unto us, that you have no inſtruction concer<g ref="char:EOLhyphen"/>ning
+<pb n="20" facs="tcp:114043:11"/>the continuation or diſplacing of the Judges, and Miniſters of the Ci<g ref="char:EOLhyphen"/>vill Liſt in their imployment and your inſtruction as unto the Martiall Liſt (whereof you gave us a Copy) is as followeth, <hi>viz.</hi> You or any three of you are to imploy ſuch of the Officers now under the L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>of <hi>Ormond,</hi> as you ſhall think fit, and where you diſplace any, you are to place other Officers, if they be neceſſarie, or otherwiſe to ſee their Commands ſufficiently di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>charged, untill the Lord Lieutenant of <hi>Ireland</hi> taketh further order; which may give more occaſion of fear unto the Officers of being diſplaced, then hope of continuance in their reſpective imployments, and there is not as much as mention made of the poore diſtreſſed Clergie of the Kingdome in any the papers or inſtructions delivered to you by us.</p>
+               <p>Thirdly, the Proteſta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts of the Kingdom, who are to be included in the preſent treatie, are, as you declare in the laſt paper delivered by you to us, to ſubmit themſelves to all Ordinances of Parl. whether already made, or to be made; Amongſt which (as we are intormed) are ſome which require the Covenant to be generally taken, and others which lay Mu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts upon thoſe, who ſhall uſe the Book of Common-prayer, which forme of Service, and no other, is by a Law of force in this Kingdome, commanded upon a penaltie to be uſed; And in our inſtructions ſent by our Commiſſioners, we deſire that neither the one nor the other might be preſſed untill ſettlement by Parliament.</p>
+               <p>And for us to agree upon this treatie to all future ordinances which ſhal be made by the Parliament, before it be known what thoſe ordinances are, we conceive may be of dangerous conſequence to the whole Kingdom, and not agreeable with the rules of prudence in us.</p>
+               <p>Fourthly, whereas by a ſpeciall inſtruction ſigned by us apart, we did di<g ref="char:EOLhyphen"/>rect our ſaid Commiſſioners, as followeth, <hi>viz.</hi> If you find the Parl. ready &amp; willing forthwith effectually to take into their care and protection his Maj. Proteſtant Subjects within the quarters under my command, and thoſe that have adhered to them from the 22. of <hi>October,</hi> 1641. according to the purport of the inſtructions ſigned by me and the Councell, and that my continuance in the Government, ſhal be the only let thereunto, you are then in ſuch caſe to let them know, that I will ſurrender my place of Lieutenant and deliver all the Holds in my power to ſuch as the Parliament ſhall ap<g ref="char:EOLhyphen"/>point upon theſe conditions.</p>
+               <p>Firſt, that they procure his Maj. directions for the doing therof, &amp;c. which was the firſt and fundamentall condition of all that was propounded by us upon this Overture, which was to be Precedent, and without which, no<g ref="char:EOLhyphen"/>thing as unto the delivery up of the Government was to be expected from us.</p>
+               <p>
+                  <pb n="21" facs="tcp:114043:11"/>
+Upon conſideration of all which, and of the Oath taken by us, upon our firſt entrance into this great truſt repoſed in us, the tenour whereof doth enſue in theſe words, <hi>viz.</hi>
+               </p>
+               <p>You ſhall ſwear, that you ſhall faithfully and truly to your power ſerve our Soveraign Lord the Kings Majeſtie, in the roome and authority of Lord Lieutenant, and chiefe Governour of this his Realm of <hi>Ireland,</hi> you ſhall maintain and defend the Lawes of God and the Chriſtian Faith, You ſhall to your power, not only keep his Maj. peace amongſt his People, but alſo maintain his Officers and Miniſters in the execution and adminiſtration of Juſtice, You ſhall defend his Maj. Caſtles, Garriſons, Dominions People, &amp; Subjects of this Realm, and repreſſe his Rebels and Enemies, You ſhall not conſent to the damage, and diſher<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zon of his Maj. his Heires nor Succeſſors neither ſhall you ſuffer the right of the Crown to be deſtroyed by any way, but ſhall let it to your power, and if you cannot let the ſame; You ſhal certifie his Maj. cleerly and expreſly thereof, You ſhall give your true and faithfull for the Kings Majeſties profit, and his Highneſſe councel? You ſhal conceal and keep, All other things for the preſervation of his Maj. Realm of <hi>Ireland,</hi> the peace amongſt his People, and execu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion of his Juſtice, accor<g ref="char:EOLhyphen"/>ding to his Maj: Lawes, Uſages and Cuſtomes of this his Highneſſe Realm, you ſhall performe, and do to your power: So God you helpe, and by the Contents of this Book.</p>
+               <p>And for that our Commiſſioners have by their Letters certified us, that they were commanded by the Committee of both houſes to forbeare the delivering unto the Scottiſh Commiſſioners the duplicate of the Letters, which we and the Councel had written to his Maj. and delivered to our Commiſſioners, advertiſing his Maj. thereby of our addreſſe to the Parlia<g ref="char:EOLhyphen"/>ment, with direction to deliver them to the Scottiſh Commiſſioners, to be ſent to the King<g ref="char:punc">▪</g> untill the pleaſure of the two houſes ſhould bee made known; which reſtraint, doth as yet for any thing made known unto us, lye ſtill upon them.</p>
+               <p>And for that if we ſhould deliver up the Sword in manner as is deſired, the preſent Parl. of this Kingdom (which is the hope of the remaining Prote<g ref="char:EOLhyphen"/>ſtants here) would be at an end; for all which reaſons, we may not part with the truſt committed to our charge, in manner as by your papers is deſired, without his Majeſties expreſſe and poſitive direction, and therefore may not aſſent thereunto.</p>
+               <closer>
+                  <signed>Ormord.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>19. <hi>Novemb.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>If your Lordſhip continue unſatisfied concerning the papers already de<g ref="char:EOLhyphen"/>livered in, or any of them, as is implyed by the Exceptions taken thereun<g ref="char:EOLhyphen"/>to,
+<pb n="23" facs="tcp:114043:12"/>and expreſſed in your laſt paper of the 18 of <hi>November,</hi> we are ready to offer ſuch conſide<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ions to your Lordſhip by way of Anſwer thereunto, as we hope, may give your Lordſhip ſatisfaction therein; and this we deſire, may be done by conference, if your Lordſhip ſhall thinke fit, for that the ſhortneſſe of time will not give opportunity to commit it to writing.</p>
+               <closer>
+                  <signed>Rob. Meredith. Tho. Wharton. Rob. King. Jo. Clotworthy. Ri. Salwey.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>19. <hi>November.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>Although the Conference deſired by you in your paper of this days date was within half an hour of the expiration o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the time limitted for this trea<g ref="char:EOLhyphen"/>ty: A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d although you have poſitively declared in your 3. paper of the 18. of <hi>Novemb.</hi> 1646. That you have no power to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nlarge your ſelves, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r the tim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> beyond what you have expreſſed, yet to manif<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he world, h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w deſirous we are to receive ſatisfaction in thoſe neceſſary exceptions by us taken to your papers given in upon this Treaty, which may being the ſame to a happy concluſion, we are ready to entertain the Conference deſired by your ſaid firſt paper of this dayes date.</p>
+               <closer>
+                  <signed>ORM<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ND.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>19. <hi>Novemb.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>Whereas we received a large paper from your Lordſhip of the 18. of <hi>Novemb.</hi> wherin you declared, you could not aſſent to deliver up th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſword, render all the Garriſons, and other Commands to the pleaſure of the Pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l, as was deſired by us in papers formerly given in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o your Lordſhip, together with your particular Exceptions to the ſame.</p>
+               <p>And whereas, we did immediatly thereupon offer unto your Lorpſhip, ſuch further <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onditions of inlargement to the former, as we were inſtru<g ref="char:EOLhyphen"/>cted unto for your more ample ſatisfaction in complying wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h the deſires of the Parliament, in order to the preſervation of the Proteſtants of the Kingdom of <hi>Ireland.</hi>
+               </p>
+               <p>And whereas your Lordſhip ſignified to us, that it then being late, &amp; the paper given in by us of great importance, you would return anſwer there<g ref="char:EOLhyphen"/>unto the next morning.</p>
+               <p>And whereas, wee did this morning deliver to your Lordſhip a paper, declaring, That if your Lordſhip continued unſatisfied concerning the Pa<g ref="char:EOLhyphen"/>pers by us given in, or any of them, as was expreſſed by the Exceptions ta<g ref="char:EOLhyphen"/>ken thereunto, we were ready to offer ſuch conſideraaions to your Lord<g ref="char:EOLhyphen"/>ſhip as we hoped might give ſatisfaction, which we deſired might be done by conference, for that the ſhortneſſe of time would not permit it in wri<g ref="char:EOLhyphen"/>ting.</p>
+               <p>
+                  <pb n="23" facs="tcp:114043:12"/>
+And having received another paper from your Lordſhip of the 19. of <hi>Novemb.</hi> containing your refuſall to deliver up the Sword. &amp;c. up<g ref="char:EOLhyphen"/>on the Conditions offered in our firſt and later papers, your Lordſhip did ſignifie by your ſecond paper of the 19. That you were ready to hear, what we coul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> further offer by way of Conference, as was deſi<g ref="char:EOLhyphen"/>red; which was by us performed accordingly.</p>
+               <p>We do therefore now deſire to know, if your Lordſhip do ſtill inſiſt upon your refuſall, on the grounds expreſſed in your papers. And if ſo, we make known to your Lordſhip, that we ſhall for our own exone<g ref="char:EOLhyphen"/>ration, commit to writing the ſumme of what we delivered in Con<g ref="char:EOLhyphen"/>ference and give your Lordſhip a copy thereof; to the end, the up<g ref="char:EOLhyphen"/>rightneſſe of our proceedings in the tranſaction of this Treaty with your Lordſhip may in all things appear, although that happy ſucceſſe, which we deſired, be not attained thereby,</p>
+               <closer>
+                  <signed>Rob. Meredith. Tho. Wharton. Rob. King. Jo. Clotworthy. Ri. Salwey.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Novemb.</hi> 16. 1646.</date>
+                  </dateline>
+               </opener>
+               <p>Foraſmuch as, what was delivered upon the Conference, cannot be made uſe of by us, as binding unto you, unleſſe it be reduced to wri<g ref="char:EOLhyphen"/>ting and ſigned by you, which when you ſhall have reduced the ſame to writing, and given us a Copy thereof, ſigned by you; We ſhall then declare unto you, whether or no, we will reſt ſatisfied therewith, or ſhall upon the whole matter inſiſt upon our refuſall.</p>
+               <closer>
+                  <signed>Ormond.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <hi>Dublin</hi> 
+                     <date>20. <hi>Novemb.</hi> 1647.</date>
+                  </dateline>
+               </opener>
+               <p>Whereas upon Thurſday morning the 14 of <hi>Novemb.</hi> in our Con<g ref="char:EOLhyphen"/>ference with your Lordſhip, wee did endeavour to offer ſuch conſide<g ref="char:EOLhyphen"/>rations, as might give ſatisfaction to your Exceptions taken by our papers given in; And whereas, we did at the ſame time alſo deſire to know, whether or no your Lordſhip had received ſatisfaction to all, or any of your ſaid Exceptions, or whether you would ſtill inſiſt upon your refuſall, whereupon your Lordſhip by your third Paper of he 19. of <hi>Novemb.</hi> returned anſwer, That what was delivered upon the Conference cannot be made uſe of by your Lordſhip, as binding unto us; unleſſe it be reduced to writing, and ſigned by us, and that when we ſhall have reduced the ſame to writing, and given you a coyy ther<g ref="char:EOLhyphen"/>of ſigned by us, your Lordſhip will then declare unto us, whether or
+<pb n="24" facs="tcp:114043:13"/>no, you will reſt ſatisfied therewith, or ſhall upon the whole matter inſiſt upon your refuſall. Wee have therefore accordingly expreſt in writing the ſumme of what was delivered in Conference, which wee offer to your Lordſhip, as followeth.</p>
+               <p>You<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lordſhips firſt Exception is.</p>
+               <p>Except. 1. <hi>That none of the Propoſitions (of the firſt way of Overture) which were tranſmitted by your Lordſhip to the Parliament are aſſented unto.</hi>
+               </p>
+               <p>To which we anſwer.</p>
+               <p>
+                  <hi>Anſw.</hi> 1. That an Ordinance of Parliament of the 15. of <hi>October,</hi> 1646. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ontaining the Declaration of both Houſes to proceed upon the ſecond way of Overture made by your Lordſhip, was by us delivered to your Lordſhip.</p>
+               <p n="2">2 That Declaration was made by the Parliament, before ſuch time as Sir <hi>Francis Willong<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>by</hi> returned from <hi>London,</hi> from whom your Lordſhip might be informed thereof.</p>
+               <p n="3">3 Your Lordſhip preſuming (before your Commiſſioners came from <hi>London</hi>) that the Parl. might not accept of thoſe Propoſitions, did by Additionall Inſtructions, declare, you would not inſiſt there<g ref="char:EOLhyphen"/>upon, and accordingly gave them liberty to recede from the ſame, and to propound a ſecond way of Overture, which the Parliament did pro<g ref="char:EOLhyphen"/>ceed upon, and appointed a way of Treating with you; of which, your Commiſſioners did advertiſe your Lordſhip by Direction of the Com<g ref="char:EOLhyphen"/>mittee of Parliament, appointed to conſider of the ſaid Propoſitions. And</p>
+               <p n="4">4 If your Lordſhip obſerve, how far that ſecond way of Overture is accepted and granted by the Parliament in the Propoſition by us given in; you may happily find, not onely full and poſitive ſatisfaction to the moſt of what your Lordſhip asked, but in ſome particulars alſo, more ample offers made, then was by your Lordſhip deſired therein; which then the world ſhall conſider, together with the grounds and principles held forth by your Lordſhip (inviting the Diſpatch of Sup<g ref="char:EOLhyphen"/>plies <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o this Place) we are confident, the Parliament will be abundant<g ref="char:EOLhyphen"/>ly juſtified therein: yet over and above all this, we continue to declare that in every particular we will go to the utmoſt limits of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur Inſtru<g ref="char:EOLhyphen"/>ctions, and where any thing ſeemes doubtfull to your Lordſhip, or too ſhort; we ſhall (if the Treatie ſucceed) repreſent it to thoſe that em; ploy us, in the beſt manner we can for your Lordſhips full ſatisfaction.</p>
+               <p>
+                  <pb n="25" facs="tcp:114043:13"/>
+And this wee deſire may be applyed to every Exception taken by your Lordſhip.</p>
+               <p>Except. 2. <hi>That we have no power to ſecure any of his Majeſties Ro<g ref="char:EOLhyphen"/>mane Catholike Subjects in their perſons and eſtates, who have conſtantly adhered to the Government here ſince the</hi> 22. <hi>of October,</hi> 1641. <hi>Of whom, you conceive, care ought to be had in the preſent Treaty.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> 1, Thoſe that by Authority of Parliament gave power to us to treat, did not, for ought we can perceive, take cognizance of any of the Romane Catholikes of <hi>Ireland,</hi> that did adhere to the Government of this Kingdome againſt the Iriſh Rebels.</p>
+               <p n="2">2 If any ſuch be, it's probable the number is not conſiderable; and if they have done nothing againſt the Parliament, they need not any ſpeciall ſecurity, but may expect as much as others, that have in like manner demeaned themſelves, although they be of the Proteſtant Re<g ref="char:EOLhyphen"/>ligion.</p>
+               <p n="3">3 Power is given (as by an Inſtruction delivered in the 16. of <hi>Nov.</hi> is expreſt) to protect ſuch as will come under Contribution, and to give them ſafeguard by the countenance of the Forces ſerving under the Parliament; According to which, they are to be protected in their perſons and eſtates, aſwell from the violence of the ſouldiers under the Parliament, as of the Enemy; And this to be extended unto all, with<g ref="char:EOLhyphen"/>out diſtinction of Offence, or Religion.</p>
+               <p n="4">4 If any thing more can be reaſonably offered, in the behalfe of ſuch Papiſts as have adhered to the preſent Government, and not beene in the Iriſh Rebellion; it ſhall be alſo recommended back by us to thoſe that imployed us, in the beſt manner we can for your Lordſhips ſatiſ<g ref="char:EOLhyphen"/>faction.</p>
+               <p>Except. 3. <hi>That no aſſurance is given, that the Judges and Miniſters of the Civill and Martiall Liſt ſhall be continuod in their places and em<g ref="char:EOLhyphen"/>ployments, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> 1. Nothing is given us in charge, nor hath any thing been expreſſed by us concerning the removall of the Judges, and Miniſters of the Civill Liſt, nor any of them.</p>
+               <p n="2">2 In caſes of like nature, it hath not been known, that perſons ſo qualified, have been continued and eſtabliſhed by Treaty, nor was it
+<pb n="26" facs="tcp:114043:14"/>(to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur knowledge) ever heretofore inſiſted on by any whomſoever.</p>
+               <p n="3">3. If it muſt be preſumed that they have offended the Parliament, yet aſſurance is given (and otherwiſe they can need none) for ſecurity to their perſones, with injoyment of there goods and eſtates in the Kingdom of Ireland, as if they had not offended, and have liberty to compound for their Eſtates, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s any of them have in England, and ſuch Compoſition not to exceed two years value.</p>
+               <p>
+                  <hi>Concerning the Officers of the Martiall Liſt.</hi>
+               </p>
+               <p>We anſwer.</p>
+               <p>
+                  <hi>Anſw.</hi> 1. We have expreſſed, That we will continue and imploy all ſuch Officers, whomſoever as ſhall be found fit for the Service: And as we have not hitherro taken up a reſolution (if the Treaty ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld ſucced) to diſplace any. ſo we doe declare. that it muſt be an extraordinary cauſe that ſhould induce us to it, and we underſtand the words of our Inſtruction (<hi>viz.</hi> You are to imploy ſuch of the Officers, &amp;c.) doth ſo direct us, and therefore connot give, as your Lordſhip expreſſeth. more occaſion of feare unto the Officers of being diſplaced, then hope of continuance in their reſpective imployments.</p>
+               <p n="2">2. As we beleeve, no preſident can be ſhow; ſo it is obvious, the inconvenience would be very great, to article for, and eſtabliſh by Treaty, any Officers of the Military Liſt, though our reſolution be to continue the ſame.</p>
+               <p n="3">3. The ſame aſſurance and benefit, as is declared in our third anſwer to your Lordſhips objections concerning the Civill Liſt, is alſo to be extended in like manner to the Officers of the Martiall Liſt, according to our Inſtructions.</p>
+               <p>In which alſo, the Clergie of this Kingdome mentioned by your Lordſhip, may reſpectively receive advantage, concerning whom we are not inſtructed: Yet.</p>
+               <p>We deſice it may be rememcred, that power is given us to agree for Penſions, to ſuch as we ſhhll thinke fit, to the value of two <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtand pounds <hi>per annum,</hi> which we are ready to aſſertain unto ſuch of the Civill and Martiall Liſt, as alſo of the diſtreſſed Clergy, as ſhal be thought meet to extend it to, in ſuch way as may give beſt ſatiſ<g ref="char:EOLhyphen"/>faction, according to our Inſtruction.</p>
+               <p>Except. 4. <hi>That great inconveniency may happen to all the Proteſtants of Ireland, who are to be included in this Treaty, if they ſhould therby conclude themſelves to ſubmit to all the Ordinances of Parliament.</hi>
+               </p>
+               <p>
+                  <pb n="27" facs="tcp:114043:14"/>
+                  <hi>Anſw.</hi> 1. We have declared, &amp;c. That their ſubmitting to all Ordinances of Parliament, is to be underſtood no other<g ref="char:EOLhyphen"/>wiſe then as all others doe, who have alwayes adhered to, and never offended the Parliament.</p>
+               <p n="2">2. We know of no Ordinance of Parliament, that requires the Covenant to be taken in the Kingdome of Ireland.</p>
+               <p n="3">3. We are no wayes inſtructed to ſuppreſſe the Book of Common Prayer, or impoſe the Directory, though your Lordſhips repreſented in your own Inſtructions, that the Di<g ref="char:EOLhyphen"/>rectory might be uſed here.</p>
+               <p n="4">4. It may alſo be conſidered, That your Lordſhip made O<g ref="char:EOLhyphen"/>verture of ſubmitting to the Direction of both Houſes of Par<g ref="char:EOLhyphen"/>liament, (and that excluſively to any one wha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſoever) as to the ordering and diſpoſing of the Army, &amp;c. If they ſhould accept of your Overture, which could not be underſtood o<g ref="char:EOLhyphen"/>therwiſe to be done, but by Ordinances of Parliament, as to them from time to time ſhould ſeeme meet.</p>
+               <p>Exception. 5. <hi>Laſtly, That the Kings direction for the Delivery up of the Government is not obteined, and that your Com<g ref="char:EOLhyphen"/>miſſioners were commanded to forbeare the delivering unto the S<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ch Commiſſioner, the duplicate of the Letters which your Lordſhip and the Councell had written to His Ma<g ref="char:EOLhyphen"/>jeſty concerning the ſame.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> 1. Wee are very confident, what the Committee of both houſes did therein, was by direction of the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+               <p n="2">2. Your Commiſſioners did declare, that if ſupplyes were not inſtantly diſpatched, you would take it for granted none would bee ſent, and therefore muſt be neceſſitated to think of ſome other courſe for your Preſervation, as by the Lawes of God and Nature became you, and therefore it could not be imagined (the neceſſity being ſo great, under which your Lordſhip then was, according to the repreſentation thereof made to the Parliament) that you would refuſe ſuch Supplies from the Parliament, in manner as they directed till your Letter ſhould be from thence ſent to Newcaſtle, and an an<g ref="char:EOLhyphen"/>ſwer thereof returned to your Lordſhip, which would not un<g ref="char:EOLhyphen"/>doubtedly
+<pb n="28" facs="tcp:114043:15"/>have taken up much more time, then the extremity of your Condition here, according to the foreſaid repreſenta<g ref="char:EOLhyphen"/>tion, could poſſibly admit of; And information was given that an addreſſe to the King was alſo made by your Lordſhip ano<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er way, and we have not yet underſto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d by your Lordſhip that he hath inhibited you to proceed and conclude with us.</p>
+               <p>But more eſpecially we deſire it may be conſidered by your Lordſhip that in your letter to the King (mentioned in your exceptions) your Lordſhips expreſſions are full, to proceed with the Parliament up<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the overture made to them in the Propoſitions, not onely without deſiring anſwer, but without expecting conſent or direction from his Majeſty before ſuch time as you would conclude the ſame, and your Lordſhip doth onely give an accompt of your Reſolutions, his Majeſty un<g ref="char:EOLhyphen"/>conſulted with, as already fix't with exp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctation onely of a benigne conſtruction from his Majeſty thereupon; And that not onely from the conſideration of neceſſity, but (as we con<g ref="char:EOLhyphen"/>ceive of your Lordſhips du<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y alſo, as the caſe the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtood, (no leſſe then a Kingdome lying at the Stake) to make your ap<g ref="char:EOLhyphen"/>plication in ſuch manner to the Parliament.</p>
+               <p n="3">3. May it not alſo be conſid<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red, what reaſon the Parlia<g ref="char:EOLhyphen"/>ment had to conceive your Lordſhip intended, not ſo to inſiſt on the Kings direction as with u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it you would not conclude, when they obſerved that by thoſe Propoſitions from your Lordſhip, a Copy whereof you have delivered us, you offered (if they ſhould accept thereof (to put your preſent Army and Forces, called by your Lordſhip his Majeſties Army, (Not<g ref="char:EOLhyphen"/>withſtanding any intereſt you apprehended the King had therein) under the ſole direction of both Houſes of Parliament. And yet in thoſe Propoſitions we finde no mention made of conſent or direction to be firſt had from the King, which was believed your Lordſhip then, as at this time alſo, might the better do, for that by act of Parliament, the mannaging of the Wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Ireland is eſtabliſhed in both Houſes of Parliament a<g ref="char:EOLhyphen"/>lone.</p>
+               <p n="4">4. It may be conſidered, that however many eaſes of this
+<pb n="29" facs="tcp:114043:15"/>nature in the late troubles in England have happened, where Perſons under great obligations to the King, have frequently ſurrend<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed to the Parliament, Gariſons and Forces, which they received by command from his Majeſty, as in particular that of Oxford (where remained not onely the Duke of Yorke and his Majeſties Councell, but alſo the Sword, the great and leſſer Seales with other Enſignes of the Regall Power, (and al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> theſe) without firſt having any explicite direction from the King to deliver up the ſame.</p>
+               <p n="5">5. When we alſo conſider how paſſionately it was repreſen<g ref="char:EOLhyphen"/>ted to the Parliament by your Lordſhip, of how great impor<g ref="char:EOLhyphen"/>tance the City and Caſtle of Dublin (together with the Gari<g ref="char:EOLhyphen"/>ſons under your Command) were in order to the recovery of the Kingdome of Ireland, the preſervation of the Proteſtant Religion, together with all the Proteſtants therein, as alſo how undoubtedly all muſt miſcarry, if Supplies did not timely come; We cannot but wonder that in caſe of ſo high concernment, and ſo great neceſſity (the ſpilling of the blood of ſo many thouſand Proteſtants being unavoidable) according to the grounds and repreſentations offered by your Lordſhip to the Parliament, the danger whereof remaines the ſame, for ought hath occurred to us, granted alſo by the loſſe of many Gariſons ſince, and will be perfected by your rejecting the Supplies (with ſo much expedi<g ref="char:EOLhyphen"/>tion and Charge ſent hither by the Parliament) that yet the Kings conſent ſhould be ſo inſiſted on, as that neither the pre<g ref="char:EOLhyphen"/>ſervation of the ſaid Proteſtant Religion, nor the blood of thouſands of Proteſtants, nor any of the fore-mentioned Conſide<g ref="char:EOLhyphen"/>rations ſhould pu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chaſe a Diſpenſation therein.</p>
+               <p n="6">6. And whereas your Lordſhips Oath is objected: It appeares to us to be penn'd with ſpeciall caution and relation to ſuch a time of neceſſity as this; and is rather (as we conceive) ſull<g ref="char:EOLhyphen"/>filled by conſent to, then refuſall of the conditions offered to your Lordſhip, unto which alſo, we believe that reſpect was had, when thoſe Reſolutions were taken up expreſſed in the fore-mentioned Letter to the King.</p>
+               <p>Wee hold it our Duty to deale thus cleerly and freely with your Lordſhip; that (if it were poſſible) we might give ſatis<g ref="char:EOLhyphen"/>faction
+<pb n="30" facs="tcp:114043:16"/>thereby, However our conſciences doe acquit us, that we have done our utmoſt therein, and do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> conceive that thoſe that imployed us, will be abundantly acquitted in the ſight of God and Man, as having done what could be expected from them, and unto whom (for any neglect in this affaire) the guilt of Blood we are confident ſhall not be imputed in that day wherein in<g ref="char:EOLhyphen"/>quiſition ſhall be made for the ſame.</p>
+               <closer>
+                  <signed>Rob. Meredith. Tho. Wharton. Rob. King. Io. Clotworthy. Rion. Salwey.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>November</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>VVE<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have conſidered the paper wherein you expreſſed the ſumme of what was delivered by you in the Con<g ref="char:EOLhyphen"/>ference with us; to which we make return.</p>
+               <p>Our firſt exception was, Not that none of the Propoſitions of the firſt way of Overture, which were tranſmitted by us to the Parliament, are aſſented unto, as in that paper is expreſſed, but that none of the Propoſitions which were tranſmited, whe<g ref="char:EOLhyphen"/>ther you look to the firſt way of Overture (as you are pleaſed to tearm it) or the ſecond way of Overure, are aſſented vnto. And to the end that this may be the better underſtood, we hold it ne<g ref="char:EOLhyphen"/>ceſſary to declare, that ſome of the Propoſitions which were tranſmitted by us from hence, were ſigned by us a part, wherein we did undertake the proſecution of the Warre, as vigorouſly a<g ref="char:EOLhyphen"/>gainſt the Rebels, as wee ſhould bee thereunto enabled by the Parliament; which Propoſitions are expreſſed at large in our ſe<g ref="char:EOLhyphen"/>cond paper of <hi>November</hi> 18. 1646. and theſe ſeem onely to have relation to Our ſelfe.</p>
+               <p>There were other Propoſitions ſigned by Us and the Coun<g ref="char:EOLhyphen"/>cell, wherein not onely Our ſelfe, but all others of this King<g ref="char:EOLhyphen"/>dome, as well of the Souldiery, as others of his Majeſties Prote<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> ſubjects of this Kingdome, and their ad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ents are reſpe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap> concerned, the ſaid Propoſitions importing no <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e then the preſervation of them in their perſons, eſtates, and imploy<g ref="char:EOLhyphen"/>ments.</p>
+               <p>
+                  <pb n="27" facs="tcp:114043:16"/>
+And there were Inſtructions ſigned by us, and delivered to our Commiſſioners, authorizing them, that if they did finde the Parl. willing and ready to take into their care and pro<g ref="char:EOLhyphen"/>tection his Maj. ſubjects, within the quarters now under our Command, and thoſe that have adhered to them ſince the 22 of October 1641. according to the purport of the Inſtructi<g ref="char:EOLhyphen"/>ons ſigned by us and the Councel, and that our continuance in the Government ſhould be the only let thereunto, that then our ſaid Commiſſioners ſhould let them know, that we would ſurrender our place of Lieutenant, and deliver up all the Holds in our power, to ſuch as the Parl. ſhould appoint upon certain conditions, whereof the firſt and principall is, that they ſhould procure his Maj. directions for our ſo doing which offer made by us, is in the Ordinance of parl delivered by you to us, and by you in your paper of the 19. of Novem. 1646. called our ſecond way of Overture wherupon you ſay the parl. did proceed, which you ſay, Sir Francis Willoughby upon his return from <hi>London</hi> might have informed us: That ſir F. Willoughby might have told us we know not; wee are ſure he did never tell us of the reſolution ſaid by you to bee taken by the Parl. for proceeding in that, you call, the ſecond way of Overture, nor did hee bring with him (for ought known to vs) any copy of the Order of the 15 of Obtob. de<g ref="char:EOLhyphen"/>claring, that Reſolution, nor was it mentioned by our Com<g ref="char:EOLhyphen"/>miſſioners in any of their Letters, though we received ſeve<g ref="char:EOLhyphen"/>rall, as wel by the ſaid Sir Fran. Willoughby, as by others of dates ſubſequent to the ſaid Order.</p>
+               <p>But on the contrary, Sir Gerrard Lowther, and Sir Paul Davies, did by their Letter of the 6. of Novemb. after ſir Fr. Willoughbies departure from <hi>London,</hi> certifie us, that Sir Ro<g ref="char:EOLhyphen"/>bert King and the reſt were ſent hither to treat with us (as they heard) for ſurrendring <hi>Duhlin,</hi> and other places under Comand to which they were not called, but were altogether ſtrangers to their tranſactions there concerning that Treaty, and that they did not know any thing of their commiſsion, authority, or inſtructions, or how far they extended.</p>
+               <p>But though the Parl. did lay hold of this called our ſecond
+<pb n="28" facs="tcp:114043:17"/>way of Overture, yet the propoſitions which were ſigned by us and the Councel, wherein all his Mai. Proteſtant Sub<g ref="char:EOLhyphen"/>jects of this Kingdom as well of the Souldiery as others, &amp; ſuch as have adhered unto them, were a like concerned with us, were not to be paſſed over, for whether we did continue in the Government, according to the firſt way of Overture, or part with it (termed by you the ſecond way of Overture, it was our main care and deſire, that they ſhould be ſecured in their perſons, eſtates, and employments, which is not yet done to our ſatisfaction.</p>
+               <p>And in that which concerneth our ſelfe, the principal thing which in his Maj. direction and allowance for the rendring up of the Government, which was to precede and warrant all that we did propound to be done by us herein, is yet wan<g ref="char:EOLhyphen"/>ting, which we deſire you to repreſent to thoſe who imploy<g ref="char:EOLhyphen"/>ed you in the beſt manner you may.</p>
+               <p>
+                  <hi>Exception</hi> 2.</p>
+               <p>Our ſecond Exception is, that you have no power to ſe<g ref="char:EOLhyphen"/>cure any of his Maj. Romane Catholique Subjects in their perſons and eſtates, who have conſtantly adhered to the Go<g ref="char:EOLhyphen"/>vernment here, ſince the 22. of Octob. 1541. of whom wee conceive care ought to be had in this preſent Treaty. To this you give theſe Anſwers.</p>
+               <p>Firſt that thoſe who by authority of Parl. gave power to you to treat, did not take cognizance of any of the Romane Catholiques in Ireland, that did adhere to the Government of this Kingdom againſt the Iriſh Rebels; which anſwer doth not ſatisfie us, but doth enforce the Exception, for their not taking cognizance of them, is the ground and cauſe of the Exception.</p>
+               <p>Your ſecond anſwer is, That (if any ſuch be) it is probable the number is not conſiderable; And if they have done no<g ref="char:EOLhyphen"/>thing againſt the Pari<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> they need not any ſpeciall ſecurity, but may expect as much as others, that have in like manner demeaned themſelves, although they be of the Proteſtant
+<pb n="29" facs="tcp:114043:17"/>Religion; which anſwer doth not ſatisfie, but giveth us more cauſe to inſiſt upon the exception, becauſe you ſay, it is pro<g ref="char:EOLhyphen"/>bable that the number of them is not conſiderable, whereas we who have been upon the place know it to be otherwiſe both in number &amp; quality of perſons.</p>
+               <p>And ſince his Maj. Proteſtant Subjects, who have ſerved againſt the Rebels here, and done nothing againſt the Parl. are offered to be ſecured in their perſons and eſtates, they may by the ſame rule of Juſtice expect the like aſſurance, &amp; the greater regard ought to be of them, for that their Reli<g ref="char:EOLhyphen"/>gion being made the pretence of the Rebellion, they do not<g ref="char:EOLhyphen"/>withſtanding adhere to his Maj. proteſtant Subiects againſt the Rebels, who are of that Religion.</p>
+               <p>Your third anſwer, <hi>viz.</hi> Power is given (as by an inſtru<g ref="char:EOLhyphen"/>ction delivered in the 16<g ref="char:punc">▪</g> of Novemb. is expreſt) to protect ſuch as will come under contribution, &amp; to give them ſafe<g ref="char:EOLhyphen"/>guard by the countenance of the Forces ſerving under the Parl. according to which they are to be protected in their perſons and eſtates, as well from the violence of the ſoldiers under the Parliament, as of the Enemy, and this to be exten<g ref="char:EOLhyphen"/>ded unto all, without diſtinction of Offence or Religion; which Anſwer doth not ſatisfie us, for the ſaid inſtruction looketh rather to the Rebels who are to be brought under contribution, then to thoſe who have continued good Sub<g ref="char:EOLhyphen"/>iects, and there<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n there is no aſſurance given unto them for their e<g ref="char:cmbAbbrStroke">̄</g>ſtate, as is in the ſame inſtruction to his Majeſties Proteſtant Subjects for their Eſtates.</p>
+               <p>Your fourth anſwer is, If any thing can be reaſonably offered in the behalfe of ſuch Papiſts, as have adhered to the preſent Government, and not been in the Iriſh Rebellion, it ſhall be alſo recommended back by you, to thoſe, who im<g ref="char:EOLhyphen"/>ployed you, in the beſt manner you can to out ſatisfaction; The latter part of which anſwer, being the beſt part there<g ref="char:EOLhyphen"/>of we deſire may be purſued, for the firſt part thereof doth inforce the Exception, it being made a doubt whether any thing can be reaſonably offered for ſuch Papiſts as have ad<g ref="char:EOLhyphen"/>hered to the preſent Government, and not been in the Iriſh
+<pb n="30" facs="tcp:114043:18"/>Rebellion, whereas nothing in reaſon can be offered againſt ſuch, but that they ſhould be ſecured in their perſons and e<g ref="char:EOLhyphen"/>ſtates.</p>
+               <p>Our third Exception is, That no aſſurance is given, that the Judges and Miniſters of the Civill and Martiall Liſt, ſhall be continued in their places and imployments, which is anſwered by you, as followeth:</p>
+               <p>Firſt, nothing is given us in charge, nor hath any thing been expreſſed by us concerning the removall of the Judges and Miniſters of the Civill Liſt, nor of any of them, which anſwer doth not ſatisfie us: for we deſire by our Propoſi<g ref="char:EOLhyphen"/>tion, to have an aſſurance for the continuing them in their reſpective imployments, which is not yet aſſented unto.</p>
+               <p>Your ſecond anſwer is, That in caſes of like nature, it hath not been known, that perſons ſo qualified have been conti<g ref="char:EOLhyphen"/>nued and eſtibliſhed by Treaty, nor was it to your know<g ref="char:EOLhyphen"/>ledge, ever heretofore inſiſted upon by any whomſoever; which anſwer doth not ſatisfie us, for though you might ſhew, that the contrary hath been done in like caſes (as we beleeve you cannot) yet, even for that cauſe, we have the more reaſon to inſiſt upon it.</p>
+               <p>Your third anſwer is, If it muſt be preſumed, that they have offended the Parliament, yet aſſurance is given (and otherwiſe they can need none) for ſecurity to their perſons, with enjoyment of their goods and eſtates in the Kingdome of Ireland, as if they had not offended, and have liberty to compound for the eſtates any of them have in England, and ſuch Compoſition not to exceed two yeares value: We are not ſatisfied with this your anſwer, for there is nothing here to aſſure them the continuance in their imployments, and our Propoſition made in their behalfe for their conti<g ref="char:EOLhyphen"/>nuance in their imployments, cannot preſume cannot pre<g ref="char:EOLhyphen"/>ſume a guilt; and it is no reaſon to ſay, that if they be not guilty, they need deſire this aſſurance, for the Judges doe well underſtand, that abundans cautela non nocet, and if it muſt be preſumed that they have offended the Parliament,
+<pb n="31" facs="tcp:114043:18"/>there is the more reaſon to inſiſt on the Propoſition for the continuing of them in their reſpective imployments, they having been diſpoyled of all their eſtates.</p>
+               <p>To your expreſſion whereby you would ſatisfie us con<g ref="char:EOLhyphen"/>cerning the continuing in imployment the Officers now un<g ref="char:EOLhyphen"/>der our Command, viz. That as you have not yet taken up a reſolution (if the Treaty ſhould ſucceed) to diſplace a<g ref="char:EOLhyphen"/>ny: ſo you declare, it muſt be an extraordinary cauſe that muſt induce you to it, wee eaſily beleeve, that as it is too early for you to declare a reſolution to turne them out of their imployments, (though ſuch a reſolution were taken up by you) till you poſſeſt of the power to do it; ſo you may judge ſuch a declaration, not to be the readieſt way, to at<g ref="char:EOLhyphen"/>taine to that power by Treaty from us, which We are con<g ref="char:EOLhyphen"/>fident, is the only way whereby you will at this time at<g ref="char:EOLhyphen"/>tempt it, but when by that meanes you ſhould be inveſted in that Power, the queſtiou is, whether you would not then underſtand that the Concurrence of ſome of the Marria<g ref="char:cmbAbbrStroke">̄</g>ll Liſt with us in the concluſion of the Ceſſations and peace here, the actuall Service of ſome others in His Majeſties Armies in England, and the obedience given by all to ſome Commands, that may have been diſpleaſing to the two Houſes of Parliament in England, to be extraordinary and ſufficient cauſes for their removeall, wherein, if you ſhall declare negatively, wee ſhall reſt ſatisfied as to that particular, not could our Demand of having them ſecured in their reſpective imployments, be underſtood to reach to a forgiveneſſe of ſuch Crimes in future as may merit diſ<g ref="char:EOLhyphen"/>placing; for which we confeſſe, we can no more alleadge a preſident, then we beleeve you can, that ever the ſword was demanded to be delivered by the Chiefe Governour of this Kingdome, to Commiſſioners of the Parliament of England, without the Command of the King.</p>
+               <p>
+                  <pb n="33" facs="tcp:114043:19"/>
+Exception 4.</p>
+               <p>Our fourth exception being as followeth, viz. That great inconvenience may happen to all the Proteſtants of Ireland, who are to be included in this treaty, if they ſhould thereby conclude themſelves to ſubmit to all Ordinances of Parliawent, is anſwered by you as followeth;</p>
+               <p>Anſwer 1.</p>
+               <p>Your firſt Anſwer is, we have declared<g ref="char:punc">▪</g> that their ſubmitting to all Ordinances of Parliament is to bee underſtood, no otherwiſe then as all others doe, who have alwayes adhered to, and never offended the Par<g ref="char:EOLhyphen"/>liament; with which anſwer we are not ſatisfied, it be<g ref="char:EOLhyphen"/>ing no more, then that we are to ſubmit to all the Or<g ref="char:EOLhyphen"/>dinances of Parliament; to which, thoſe who are of the Parliament party ſubmit, as the Covenant, the Di<g ref="char:EOLhyphen"/>rectory, the aboliſhing of the Booke of Common-prayer, &amp;c.</p>
+               <p>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſwer 2.</p>
+               <p>Your ſecond anſwer is, we know of no Ordinance of Parliament that requireth the Covenant to be taken in the Kingdome of Ireland, with which anſwer wee are not ſatified, for we know that it hath been preſt in all parts of the Kingdome, where the Parliament hath prevailed, as in the Provinces of Munſter, Vlſter, and Connaught, there being ſome Miniſters not long ſince employed into Vlſter, who went from Town to Town, and from City to City, preſſing the Covenant,
+<pb n="35" facs="tcp:114043:19"/>whereupon many Proteſtants did acquit their Com<g ref="char:EOLhyphen"/>mands and habitations in thoſe parts, rather then they would ſubiect themſelves to it, and if the ſame was done without an Ordinance of Parliament, we have the more reaſon to inſiſt, that his Maieſties Subiects may be ſecured againſt ſo violent and unwaranted preſſures upon their Conſciences.</p>
+               <p>And if you know no Ordinances of Parliament which requireth the Covenant to be taken in the Kingdome of Ireland, you may the better undertake that it ſhall not be preſſed; and if you bee not inſtructed to ſup<g ref="char:EOLhyphen"/>preſſe the Book of Common prayer, or impoſe tho Directory, you may the better condeſcend to what is deſired concerning both, ſo far as is expreſſed in our inſtructions.</p>
+               <p>Anſwer 4.</p>
+               <p>Your fourth anſwer is, It may alſo be conſidered, that your Lordſhip made Overture of ſubmitting to the Direction of both houſes of Parliament (and that ex<g ref="char:EOLhyphen"/>cluſively to any other whatſoever) as to to the orde<g ref="char:EOLhyphen"/>ring and diſpoſing of the Army, &amp;c. if they ſhould ac<g ref="char:EOLhyphen"/>cept of your Overture, which could not be underſtood otherwiſe to be done, but by Ordinances of Parl, as to them from time to time ſhould ſeeme meet.</p>
+               <p>VVe are not ſatisfied with this your Anſwer, the ſtrength of your reaſon being thus;</p>
+               <p>That we did ſubmit to the direction of both Hou<g ref="char:EOLhyphen"/>ſes of Parliament for the ordering of the Army, &amp;c. therefore no inconvenience can happen to the Prote<g ref="char:EOLhyphen"/>ſtants in Ireland, who are to be included in this Trea<g ref="char:EOLhyphen"/>ty, if they ſhould thereby conclude themſelves to ſub<g ref="char:EOLhyphen"/>mit
+<pb n="34" facs="tcp:114043:20"/>to all Ordinances of the Parliament of England, which ſure is no good Conſequence, from one parti<g ref="char:EOLhyphen"/>cular to conclude a generall; And if you would de<g ref="char:EOLhyphen"/>clare that by ſubmitting to all Ordinances of Parlia<g ref="char:EOLhyphen"/>ment, were onely intended ſuch Ordinances as con<g ref="char:EOLhyphen"/>cerne the ordering and diſpoſing of the Army, though that offer of Ours was in caſe that way of accommo<g ref="char:EOLhyphen"/>dation, which is waved by the Parliament, were laid hold of (of any thing wherein we therefore conceive no uſe ſhould be made in this Treaty, ſince that way laid aſide) yet ſuch a declaration would, as that point give ſatisfaction</p>
+               <p>The fifth exception is, That the Kings Direction for the delivery up of the Government is not obtained and that our Commiſſioners were commanded to for<g ref="char:EOLhyphen"/>beare the delivering unto the Scottiſh Commiſſioners, the Duplicate of the Letters, which Wee and the Councell had written to his Majeſty concerning the ſame; To which you make theſe Anſwers, viz.</p>
+               <p>That our Commiſſioners did declare, That if Sup<g ref="char:EOLhyphen"/>plies were not inſtantly diſpatched, that We would take it for granted, that none would be ſent, which was the ground of haſtning the ſaid Supplies, whereas the words of our Inſtructions wero, That if within a reaſonable time after landing of our Commiſſioners; they did not advertiſe us, that thoſe things we deſired were on the way hither, or at leaſt a conſiderable proportion of Money and Muniti<g ref="char:EOLhyphen"/>on, and probable hope of the reſt ſpeedily after, that then wee would take it for granted, not that no Sup<g ref="char:EOLhyphen"/>plies would come. but that our Propoſitions were reje<g ref="char:EOLhyphen"/>cted there, which ſtrongly implyed, and ſo was intended, that if we underſtood Supplies were on the way, we might
+<pb n="39" facs="tcp:114043:20"/>then take it for granted, our propoſitions were accepted, which alſo we had cauſe to believe, for that our Commiſſioners by command of the Committee, before whom they were heard, ſignifyed to us, their meſſage was cheerfully accepted, whereof the ſending of Sup<g ref="char:EOLhyphen"/>plies was but a part; nor can it be reaſonably objected to us, that we refuſe thoſe Supplies, ſince none of the Conditions wherein we ex<g ref="char:EOLhyphen"/>preſſed our willingnes to receive them, is offered to us in manner as was deſired, eſpecially that fundamentall one, of procuring the Kings Command for delivering up the Sword, and Garriſons, which be<g ref="char:EOLhyphen"/>ing the way fixed on by the Parliament, we much wonder, was not endeavoured (as well it might have been, and an anſwer had) be<g ref="char:EOLhyphen"/>fore you came from London, and if it had been obtained, there had been no need of ſending it to us till your arrivall, and if it had been refuſed, the Parliament in their great wiſdome and knowledge of the duty of one ſo highly truſted, would have found ſome other ex<g ref="char:EOLhyphen"/>pedient to extend their aſſiſtance and protection to the Proteſtants, other then ſuch as muſt blemiſh our honour and fidelity to all Poſte<g ref="char:EOLhyphen"/>rity, nor is it a ſufficient diſcharge to us, that his Majeſty hath not inhibited us to proceed and conclude with you, his expreſſe com<g ref="char:EOLhyphen"/>mand, being in this caſe abſolutely neceſſary. And as for the ſuppoſi<g ref="char:EOLhyphen"/>tions and inferences, which you make out of the Letters writ by us to his Majey, and both houſes of Parliament; as that it could not be imagined, the neceſſities being ſo great, under which we then were; that we would refuſe ſuch ſupplies from the Parliament in manner as they directed, till our letter ſhould be from hence ſent to New caſtle, and anſwer thereof returned to us: And that the Parlia<g ref="char:EOLhyphen"/>ment had no reaſon to conceive, that we intended ſo to inſiſt on the Kings direction, as without it we would not conclude, &amp;c. As alſo conſidering how paſſionately we repreſented to the Parliament, the importance of the City and Caſtle of Dublin, &amp;c. and how undoubt<g ref="char:EOLhyphen"/>edly all muſt miſcarry, if Supplies did not ſpeedily come, that yet the Kings conſent ſhould be ſo inſiſted upon, as none of the fore<g ref="char:EOLhyphen"/>mentioned conſiderations ſhould purchaſe a diſpenſation therein: And to induce us thereunto, you propoſe unto us examples of the delivering up of other Garriſons and Forces in England, as in par<g ref="char:EOLhyphen"/>ticular, that of <hi>Oxford,</hi> &amp;c. without having any explicite dire<g ref="char:EOLhyphen"/>ction from the King to deliver up the ſame. We conceive the caſe of <hi>Oxford</hi> to be different from this; For Sir <hi>Thomas Fairfax,</hi> to whom the City of <hi>Oxford</hi> was rendred, (after ſome time of formall Singe, and the ſhedding of blood on both fides) was not invited
+<pb n="40" facs="tcp:114043:21"/>thither by thoſe within to defend and relieve it againſt the expected attempts of another enemy; as thoſe Forces now here with you were (upon certain Conditions) by us, but his comming before <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> was unſent for, openly and declaredly to take by force of Armes that City: In the caſe of <hi>Oxford</hi> alſo, we have ſeen his Majeſties Command, directed to the Governour for the rendring thereof, which if you can produce to us for the giving up of theſe Garriſons, with the E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es of Royalty belonging to the Crown of this King<g ref="char:EOLhyphen"/>dome, we will in like ſort readily obey the ſame, notwithſtanding ſome other diſparity in the caſes. And if the inſtructions we gave our Commiſſioners be looked into, Copies whereof were delive<g ref="char:EOLhyphen"/>red by them to the Committee of both houſes, all theſe ſuſpitions, in<g ref="char:EOLhyphen"/>ferences, and Arguments will vaniſh, it being a certain and true rule, that no inference nor application is to be made contrary to that which is expreſt, as our inſtructions were in this particular; for our firſt and principall inſtruction was, That we would ſurrender our place of Lievtenant. &amp;c. to ſuch as the Parliament ſhould appoint, upon theſe following conditions.</p>
+               <p>Firſt, that they procure his Majeſties direction for the doing there<g ref="char:EOLhyphen"/>of, &amp;c. But further to cleere it, in our ſeventh and laſt inſtruction delivered unto our Commiſſioners, whereof the ſaid Committee had likewiſe a Coppy, it is further given in charge unto them in this manner: viz. If in the mean time whileſt they take theſe Propoſiti<g ref="char:EOLhyphen"/>ons and the reſt into their conſiderations, and till they have procu<g ref="char:EOLhyphen"/>red his M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>j<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſties direction as aforeſaid, the Parliament be pleaſed to ſend over ſuch Supplyes, as may relieve the Garriſons from ruine, through want, or by the hoſtile attempts of the Rebels, the ſame ſhall be well husbanded for them, and imployed only to thoſe ends, both which inſtructions leave no place for inference or implication to be made contrary to expreſſe inſtructions. If the Parliament hath procured his Majeſties direction, the condition is performed, but if that be not done, the Forces notwithſtanding may be received and imployed in the preſent ſervice, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o all thoſe inconveniencies may be prevented, which are feared: But if nothing that we can do can give ſatisfaction, but to deliver up the Sword, render all the Garriſons, and other Commands to the pleaſure of the Parliament, which we are bound by Oath to preſerve and keep for His Majeſty, before we do receive His direction therein, We doubt not but we ſhall be acquit herein, before God and men, if we inſiſt upon the refuſall of that which we cannot do without the violation of our Oath to God and the King.</p>
+               <p>
+                  <pb n="41" facs="tcp:114043:21"/>
+To ſum me up in briefe thoſe particulars wherein we are not ſa<g ref="char:EOLhyphen"/>tisfyed by any of your Papers, nor by any thing which was delivered in the Conference.</p>
+               <p>Firſt, you have ſhewed us no direction from his Majeſty to deli<g ref="char:EOLhyphen"/>ver the Sword, &amp;c. which you ſay you have not procured.</p>
+               <p>Secondly, you have not offered aſſurance to the Papiſts of this Kingdome, who have adhered to his Majeſties government ſince the 22. of <hi>October</hi> 1641. for their eſtates, which is confeſſed by you.</p>
+               <p>Thirdly, you have not undertaken, that the Covenant ſhall not be preſſed, nor that the Book of Common-prayer ſhall not be ſuppreſſed.</p>
+               <p>Fourthly, you have given no aſſurance either for the continuance of the Judger and Officers of the Civill Liſt, or the Officers of the Martiall in their reſpective imployments, or the Cleargy in their reſpective Rights, and incumbencies.</p>
+               <p>Fiftly, you have given us no ſatisfaction in that great and main Objection touching the preſent Parliament, which would be diſ<g ref="char:EOLhyphen"/>ſolved, if that we ſhould deliver the Sword in manner as is deſired, The Papers do cleere none of theſe particulars, and nothing was delivered poſitively in the Conference which doth any wayes en<g ref="char:EOLhyphen"/>large the former Papers. We know that in matters of ſo high and great concernment, you will go to the utmoſt Limits of your inſtructions, and that in theſe things which ſeem doubtfull to us, you will (if any expedient can be found for the continuing the Treaty) repreſent them to thoſe who employed you, in the beſt manner you can, for Our ſatisfaction; according to the promiſe made by you in your laſt Paper, for which we doe returne you thankes in the behalfe of all His Majeſties Proteſtant Sub<g ref="char:EOLhyphen"/>jects, and thoſe who have faithfully adhered to them. And for that full ſatisfaction cannot be given to us without your fur<g ref="char:EOLhyphen"/>ther Application to the Parliament, for enlarging your powers. We being reſolved to leave no meanes unattempted, that may con<g ref="char:EOLhyphen"/>duce to the preſervation of his Majeſties Proteſtant Subjects in this Kingdome, and the Rights of the Crowne of England, and to the end the Forces brought hither by you, may be employed to thoſe good ends, whileſt His Majeſties pleaſure by us, and that of the Parliament by you is ſought, do offer theſe following Pro<g ref="char:EOLhyphen"/>poſitions.</p>
+               <list>
+                  <item>Firſt, that the Officers and Souldiers, ſent hither by the Parlia<g ref="char:EOLhyphen"/>ment
+<pb n="42" facs="tcp:114043:22"/>of England be put into one, or more convenient Garriſons, and be commanded by their Reſpective Officers, who are to re<g ref="char:EOLhyphen"/>ceive Orders from Us and the Governours of the places where they ſhall be Gariſon'd, and to be ſubject to the Lawes Martiall now in force in this Kingdome.</item>
+                  <item>Secondly, We deſire, towards the keeping of the Army now under our Command for ſix weekes three thouſand pounds, wher<g ref="char:EOLhyphen"/>of two parts in money, and a third part in victualls.</item>
+                  <item>Thirdly, That there be an ingagement from you to us on the be<g ref="char:EOLhyphen"/>halfe of the Parliament, that the Officers and Souldiers which are to be Garriſoned, as in the firſt Propoſition is mentioned, ſhall do no Act prejudiciall to the preſent Government here; And that in caſe we ſhall not at or before the expiration of the ſaid ſix weeks agree, that they ſhall remove from thoſe places out of our quarters, at ſuch time as we ſhall direct.</item>
+                  <item>Fourthly, We ſhall engage Our ſelfe unto you, that the ſaid Of<g ref="char:EOLhyphen"/>ficers and Souldiers, ſhall quietly and peaceably be permitted by Us to remove with their Armes, Proviſions and other things belong<g ref="char:EOLhyphen"/>ing unto them to Shipboard, or to ſuch other places out of Our quarters, as you Sir <hi>Robert Meredith,</hi> Sir <hi>Thomas Wharton.</hi> Sir <hi>Robert King,</hi> and Sir <hi>John Clotworthy,</hi> Knights, and <hi>Richard Salwey</hi> Eſquire, or any three of you ſhall direct: And to theſe Our Propoſitions We deſire your ſpeedy Anſwer.</item>
+               </list>
+               <closer>
+                  <signed>ORMONDE.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <hi>Dublin.</hi> 
+                     <date>22. <hi>Novemb.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>HAving received your Lordſhips papers of the 21. of November, and in them your returne to what was firſt delivered in-confe<g ref="char:EOLhyphen"/>rence, and afterwards for your Lordſhips ſatisfaction put in writing, and ſigned by us.</p>
+               <p>And whereas in thoſe papers, your Lordſhip deſires a coppy of the Inſtruction, whereby power is given us to agree for Penſions to the value of two thouſand pounds <hi>per annum</hi> We have the light fit (that nothing may be wanting on our parts) herewith to deliver you a Coppy of the ſaid Inſtruction.</p>
+               <p>And however upon peruſall of your Lordſhips paper of the 21. of November, we find little cauſe to beleeve, ſatisfaction will be re<g ref="char:EOLhyphen"/>ceived by your Lordſhip, as hath been andeavoured to be given by Us. Yet foraſ<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>eh at your third paper of the 19. of November d<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d expreſſ, that when you ſhould receive in writing ſigned by us, what war delivered in Conference to your Lordſhip, you would then de<g ref="char:EOLhyphen"/>clare
+<pb n="43" facs="tcp:114043:22"/>unto us, whether or no you would reſt ſatlsfied therewith, or upon the whole matter inſiſt upon your refuſall, we deſire your Lord<g ref="char:EOLhyphen"/>ſhip ſpeedily to give us your poſitive anſwer accordingly.</p>
+               <p>And withall, we hold it fit to declare, that as we conceive the grounds of ſatisfaction offered by us, doe remaine unanſwered by you Lordſhip, and particularly touching the Kings conſent and di<g ref="char:EOLhyphen"/>rection (which you call maine and fundamentall) we having made it appeare that your Lordſhips Overture to the Parliament, was, to put all your Forces and Garriſons under their ſole Command (the King unconſulted with at all therein) ſo we no wayes thinke fit (though our Inſtructions ſhould therein anthorize us) to accept of the Propoſitions mentioned in the latter end of your papers, as an ex<g ref="char:EOLhyphen"/>pedient to continue any longer.</p>
+               <p>It yet your Lordſhip continue to refuſe what we have offered, we can onely give account thereof to thoſe that imployed us, and muſt leave it to the world to judge, whether thoſe Exceptions, taken and inſiſted on by your Lordſhip, be conſonant to thoſe grounds and principles held forth in your Overture made to the Parliament, by which they were induced to ſend Succours hither, or whether all the particulars (ſo farre inſiſted on by your Lordſhip, that it app<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s not to us, you will recede from any one thereof) be of equall con<g ref="char:EOLhyphen"/>cernment to that hazard, yea (according to your Lordſhips owne repreſentation) that Certainty of loſſe, not of a Kingdome only, but of Thouſands of Proteſtants, and together with them, the Proteſtant Relig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on alſo.</p>
+               <p>All which, by the great care and pious endeavours of the Parlia<g ref="char:EOLhyphen"/>ment of England, might have been (through the bleſſing of God) pre<g ref="char:EOLhyphen"/>vented, if what we have oftered (and doe yet offer) in their names he not by your Lordſhip refuſed.</p>
+               <closer>
+                  <signed>Rob. Meredith. Tho. Wharton. Rob. King. Io. Clotworthy. R. Salwey.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <head>A Copie of the Inſtruction mentioned in the former Paper.</head>
+               <p>YOu, <hi>or any Three of you, have alſo hereby power given you to a<g ref="char:EOLhyphen"/>gree for ſuch allowances to be paid to others by conſtans Penſion, during the Warre of Ireland. (for the better and more fir me car<g ref="char:EOLhyphen"/>rying on of this Worke) as ſhall not exceed in the whole, the ſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>me of Two Thouſand Pounds</hi> per-annum, <hi>to all other perſons, beſide the
+<pb n="44" facs="tcp:114043:23"/>Two Thouſand pounds</hi> per annum, <hi>to the Lord of Ormonde: And thoſe penſions to continue till they can receive the like benefit by their owne Eſtates.</hi>
+               </p>
+               <p>Signed as the reſt of the Inſtructions.</p>
+               <closer/>
+               <postscript>
+                  <p>Vera Copia</p>
+                  <closer>
+                     <signed>Ex. <hi>W. Rowe.</hi>
+                     </signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>22. <hi>Novemb.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>WHereas by your paper of the 22. of Nov. 1646. You affirme that you made it appeare that our Overture to the Parlia<g ref="char:EOLhyphen"/>ment was to put our Forces &amp; Garriſons under their ſole Command the King not conſulted withal therin, we doe poſitively affirme, that you neither have nor can make it appear, that we made Overture to the Parliament, to put all our Forces and Garriſons under their ſole Command, the King unconſulted; for whatſoever hath been offer<g ref="char:EOLhyphen"/>ed by us unto the Parliament by our Prop ſitions and Inſtructions, We are conſtant thereunto, and ſtill ready to performe.</p>
+               <closer>
+                  <signed>ORMONDE.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>22. <hi>Novemb.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>HAving received your Lordſhips paper of the 22. of November (which we conceive needs no reply) we deſire to know whe<g ref="char:EOLhyphen"/>ther your Lordſhips will returne any further anſwer to our firſt pa<g ref="char:EOLhyphen"/>per of this dayes date.</p>
+               <closer>
+                  <signed>Rob. Meredith. Tho. Wharton. Rob. King. Io. Clotworthy Rich. Salwey.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>22. <hi>November</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>VVEE may not returne other Anſwer, then Wee have done in Our former papers, untill Wee have Conſulted His Majeſty, and received His Direction therein.</p>
+               <closer>
+                  <signed>ORMONDE.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>22. <hi>Novemb.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>VVE having heard nothing from you ſince We ſent Our laſt paper, We deſire to know whether We ſhall underſtand this Treaty to be at an end for the preſent, that if neither Our Pro<g ref="char:EOLhyphen"/>poſitions. ſent by Us to the Parliament of England, nor the Propoſi<g ref="char:EOLhyphen"/>tions Wee ſent unto you for the ſtay of your men, be aſſented unto, in manner as is Propounded, We may conſider what further courſe
+<pb n="45" facs="tcp:114043:23"/>to take for the preſervation of His Majeſties Subjects and the Rights of the Crowne.</p>
+               <closer>
+                  <signed>ORMONDE.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>
+                     <date>22. <hi>Novemb.</hi> 1646.</date>
+                  </dateline>
+               </opener>
+               <p>IN Anſwer to your Lordſhips paper of the 23. of November Wee returne; That Wee continue aſſured there is no other way ac<g ref="char:EOLhyphen"/>cording to the repreſentation made by your Lordſhip to the Parlia<g ref="char:EOLhyphen"/>ment, of preſerving the Proteſtants of the Kingdome of Ireland, nor of the Rights thereof relating to the Kingdome of England, but by accepting the the Overtures made by us to your Lordſhip ac<g ref="char:EOLhyphen"/>cording to Our Papers delivered in; Your Lordſhip inſiſting upon a poſitive refuſall thereof, we underſtand the Treaty to be at an end; And as for the offers lately made by your Lordſhip to us, we refer our ſelves to our Anſwer already given thereunto, and can in no wiſe accept of the ſame.</p>
+               <closer>
+                  <signed>Rob. Meredith. Tho. Wharton. Rob. King. Jo. Clotworthy. Rich. Salwey.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
